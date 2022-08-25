@@ -1,0 +1,13 @@
+name = "SimpleXP"
+filename = "simpleXP-1.1.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r413435x/versions/JN1cFfSS/simpleXP-1.1.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "c41951e6584c1bea93462a957c13548bf1de3541"
+
+[update]
+[update.modrinth]
+mod-id = "r413435x"
+version = "JN1cFfSS"

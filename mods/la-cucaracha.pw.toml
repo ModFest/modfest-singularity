@@ -1,0 +1,13 @@
+name = "La Cucaracha"
+filename = "la_cucaracha-1.0.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yi4Wpizw/versions/i9IKgpr0/la_cucaracha-1.0.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "4273d73e5ca16a9d0abe3cc72b6c847a194b80b2"
+
+[update]
+[update.modrinth]
+mod-id = "yi4Wpizw"
+version = "i9IKgpr0"

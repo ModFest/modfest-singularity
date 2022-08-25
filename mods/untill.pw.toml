@@ -1,0 +1,13 @@
+name = "Untill"
+filename = "untill-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMIk3Jjg/versions/3noUSfqH/untill-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "5804f90e1e7852b04afdfe1dc0b930bf5425b608"
+
+[update]
+[update.modrinth]
+mod-id = "DMIk3Jjg"
+version = "3noUSfqH"

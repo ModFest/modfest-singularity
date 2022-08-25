@@ -1,0 +1,13 @@
+name = "Mushroom Mod"
+filename = "mushroommod-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GrIzYr9n/versions/tbMBHa1h/mushroommod-0.1.0.jar"
+hash-format = "sha1"
+hash = "768c976c7734be83d06862109e25c8db525da4f2"
+
+[update]
+[update.modrinth]
+mod-id = "GrIzYr9n"
+version = "tbMBHa1h"

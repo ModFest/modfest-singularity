@@ -1,0 +1,13 @@
+name = "Mods in a Jar"
+filename = "mods-in-a-jar-1.0.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5gPHp3CE/versions/TcZMCvPi/mods-in-a-jar-1.0.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "961b9ee62ccaa4087caa71bf6c88cde59d1fd756"
+
+[update]
+[update.modrinth]
+mod-id = "5gPHp3CE"
+version = "TcZMCvPi"

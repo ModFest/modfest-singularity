@@ -1,0 +1,13 @@
+name = "Bedventory"
+filename = "bedventory-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LCQBjOFR/versions/1.0.0+1.19/bedventory-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "835dc9b3cecfb3a8ccf5c224f12debff162b7ce7"
+
+[update]
+[update.modrinth]
+mod-id = "LCQBjOFR"
+version = "9tMFnlsX"

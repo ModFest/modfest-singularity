@@ -1,0 +1,13 @@
+name = "Jack o'Golem"
+filename = "jack_o_golem-1.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Aa3SCTGG/versions/TLgWpEcM/jack_o_golem-1.0.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "24baf0cca910a17af18436a52938d51b862497d8"
+
+[update]
+[update.modrinth]
+mod-id = "Aa3SCTGG"
+version = "TLgWpEcM"

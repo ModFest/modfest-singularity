@@ -1,0 +1,13 @@
+name = "Emerald Expansions"
+filename = "emeraldexpansions-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fOCBFOGX/versions/roHqZXUd/emeraldexpansions-1.0.0.jar"
+hash-format = "sha1"
+hash = "ab5c3896154cde06d42e4008d80a8f998c56b4e6"
+
+[update]
+[update.modrinth]
+mod-id = "fOCBFOGX"
+version = "roHqZXUd"

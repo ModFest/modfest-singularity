@@ -1,0 +1,13 @@
+name = "Press Alt To Meow"
+filename = "pressalttomeow-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjH4M3L1/versions/ElvjEgEB/pressalttomeow-1.0.0.jar"
+hash-format = "sha1"
+hash = "fe2c4a9aee34ff5541e4843b6296c8340896fcf1"
+
+[update]
+[update.modrinth]
+mod-id = "EjH4M3L1"
+version = "ElvjEgEB"

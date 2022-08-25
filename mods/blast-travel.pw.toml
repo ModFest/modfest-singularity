@@ -1,0 +1,13 @@
+name = "Blast Travel"
+filename = "blasttravel-1.0.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8zYyDYqD/versions/hYX6oT2v/blasttravel-1.0.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "e3f845e51ca3ed7073088b92268386aefad01712"
+
+[update]
+[update.modrinth]
+mod-id = "8zYyDYqD"
+version = "hYX6oT2v"

@@ -1,0 +1,13 @@
+name = "Meowing"
+filename = "Meowing-1.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RogAzYR5/versions/dIOlSYI8/Meowing-1.0.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "957c7910bca68a7d1403119922112c135bca8182"
+
+[update]
+[update.modrinth]
+mod-id = "RogAzYR5"
+version = "dIOlSYI8"

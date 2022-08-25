@@ -1,0 +1,9 @@
+.git/
+.github/
+.idea/
+.gitattributes
+.gitignore
+README.md
+LICENSE
+scripts/
+instances/

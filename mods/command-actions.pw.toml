@@ -1,0 +1,13 @@
+name = "Command Actions"
+filename = "command-actions-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VLhucvq/versions/Pq5g1nAg/command-actions-1.1.0.jar"
+hash-format = "sha1"
+hash = "dca36167e9ce2835883520fa819083eac531ea8f"
+
+[update]
+[update.modrinth]
+mod-id = "6VLhucvq"
+version = "Pq5g1nAg"

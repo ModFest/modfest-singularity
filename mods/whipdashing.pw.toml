@@ -1,0 +1,13 @@
+name = "Whipdashing"
+filename = "whipdashing-1.0.2+1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KaSmM9jU/versions/uviFZjEk/whipdashing-1.0.2%2B1.19.x.jar"
+hash-format = "sha1"
+hash = "07cbc29fe733fdc3e1afcf706bb776f5ac664dee"
+
+[update]
+[update.modrinth]
+mod-id = "KaSmM9jU"
+version = "uviFZjEk"

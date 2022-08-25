@@ -1,0 +1,13 @@
+name = "Height Halting Heels"
+filename = "heighthaltingheels-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9UOyG1fG/versions/2bUJQTGM/heighthaltingheels-1.0.0.jar"
+hash-format = "sha1"
+hash = "bd4eb68e6663bec36ec1c6d1f149c9961c18071c"
+
+[update]
+[update.modrinth]
+mod-id = "9UOyG1fG"
+version = "2bUJQTGM"

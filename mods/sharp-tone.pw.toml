@@ -1,0 +1,13 @@
+name = "Sharp Tone"
+filename = "sharptone-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MSua4k8A/versions/wd5GEGLI/sharptone-1.0.4.jar"
+hash-format = "sha1"
+hash = "a89624770c3fa7e8ee0510a36eb6d20379360e9d"
+
+[update]
+[update.modrinth]
+mod-id = "MSua4k8A"
+version = "wd5GEGLI"

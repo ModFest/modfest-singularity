@@ -1,0 +1,13 @@
+name = "Gold Telepads"
+filename = "goldtelepads-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j4fUcYMp/versions/We3tl9hD/goldtelepads-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "5202a2f08774b30a6bd22264aba8a7ccd9fc9102"
+
+[update]
+[update.modrinth]
+mod-id = "j4fUcYMp"
+version = "We3tl9hD"

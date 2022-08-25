@@ -1,0 +1,13 @@
+name = "Scarves"
+filename = "scarves-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vhY4Cys8/versions/Ai6SCznp/scarves-1.0.0.jar"
+hash-format = "sha1"
+hash = "c898d78975475a082838d422654e4e0c55498a3b"
+
+[update]
+[update.modrinth]
+mod-id = "vhY4Cys8"
+version = "Ai6SCznp"

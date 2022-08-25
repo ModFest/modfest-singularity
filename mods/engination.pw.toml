@@ -1,0 +1,13 @@
+name = "Engination"
+filename = "Engination-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JpAGYwCM/versions/AWhzHuyO/Engination-1.0.4.jar"
+hash-format = "sha1"
+hash = "68a50da010699a9ec3eb37f304aedb3851a7ba81"
+
+[update]
+[update.modrinth]
+mod-id = "JpAGYwCM"
+version = "AWhzHuyO"

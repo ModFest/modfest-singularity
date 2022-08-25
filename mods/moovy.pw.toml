@@ -1,0 +1,13 @@
+name = "Moovy"
+filename = "moovy-0.0.7+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xNAXb07O/versions/yu9uPaHL/moovy-0.0.7%2B1.19.jar"
+hash-format = "sha1"
+hash = "9fae38e49c98f12b7b50ee7788f3274b12e52678"
+
+[update]
+[update.modrinth]
+mod-id = "xNAXb07O"
+version = "yu9uPaHL"

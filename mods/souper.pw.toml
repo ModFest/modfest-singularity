@@ -1,0 +1,13 @@
+name = "Souper"
+filename = "souper-1.0.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CI3pWamH/versions/5SA9QixR/souper-1.0.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "479542c33e44905f8bc9ba31b7da7f4160fd5ce9"
+
+[update]
+[update.modrinth]
+mod-id = "CI3pWamH"
+version = "5SA9QixR"

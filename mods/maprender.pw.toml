@@ -1,0 +1,13 @@
+name = "MapRender"
+filename = "maprender-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kc0ucXCz/versions/0.0.1/maprender-0.0.1.jar"
+hash-format = "sha1"
+hash = "a90220494daedb8d7a1174c5c8be414db8dcebd9"
+
+[update]
+[update.modrinth]
+mod-id = "kc0ucXCz"
+version = "mZsLix2d"

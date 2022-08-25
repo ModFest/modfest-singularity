@@ -1,0 +1,13 @@
+name = "It's Poppin'!"
+filename = "itspoppin-0.1.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I3dJ8r1I/versions/FWLxA3xA/itspoppin-0.1.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "d6ad95d39ff6d0d25539905fb5487ab30eb4f406"
+
+[update]
+[update.modrinth]
+mod-id = "I3dJ8r1I"
+version = "FWLxA3xA"

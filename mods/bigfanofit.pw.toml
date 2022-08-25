@@ -1,0 +1,13 @@
+name = "Big Fan of It"
+filename = "bigfan-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvMj02Es/versions/1.0.3/bigfan-1.0.3.jar"
+hash-format = "sha1"
+hash = "68cc418e7cd6a9e28717eca23e2eeddbcf3ef4a1"
+
+[update]
+[update.modrinth]
+mod-id = "nvMj02Es"
+version = "LyXMoNoL"

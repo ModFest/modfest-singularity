@@ -1,0 +1,13 @@
+name = "Affectionate"
+filename = "affectionate-1.1.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYOybYzW/versions/bV6q7HS2/affectionate-1.1.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "2ff4ac24dc5bc6eca570cf9c088262b1698bc44d"
+
+[update]
+[update.modrinth]
+mod-id = "VYOybYzW"
+version = "bV6q7HS2"

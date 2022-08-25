@@ -1,0 +1,13 @@
+name = "|modulus|"
+filename = "modulus-0.1.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IbQ6m4Wm/versions/ru7Vp16x/modulus-0.1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "35b3e457499424c6b019c21c210cb8cd4066a9a4"
+
+[update]
+[update.modrinth]
+mod-id = "IbQ6m4Wm"
+version = "ru7Vp16x"

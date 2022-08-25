@@ -1,0 +1,5 @@
+[
+  {"slug": "fabric-api"},
+  {"slug": "fabric-language-kotlin"},
+  {"slug": "patterns", "comment": "startup crash on 1.0.2"}
+]

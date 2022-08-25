@@ -1,0 +1,13 @@
+name = "Echoes of the Past"
+filename = "echoes_of_the_past-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FVIQcfgy/versions/CZ4WhzOg/echoes_of_the_past-1.2.1.jar"
+hash-format = "sha1"
+hash = "fbb3675eb7d147684c6808970ff17a44b211832b"
+
+[update]
+[update.modrinth]
+mod-id = "FVIQcfgy"
+version = "CZ4WhzOg"

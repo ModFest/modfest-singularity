@@ -1,0 +1,13 @@
+name = "We no speak Umbrellarino"
+filename = "wenospeakumbrellarino-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UCzOSyxf/versions/Vy4ZVerB/wenospeakumbrellarino-1.0.1.jar"
+hash-format = "sha1"
+hash = "8ea0db007093a5b670243b29d23694c7d9c17951"
+
+[update]
+[update.modrinth]
+mod-id = "UCzOSyxf"
+version = "Vy4ZVerB"

@@ -1,0 +1,13 @@
+name = "Runic Railguns"
+filename = "RunicRailguns-1.0.2_ModFest.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4CW6kj59/versions/vzqBlABC/RunicRailguns-1.0.2_ModFest.jar"
+hash-format = "sha1"
+hash = "9c5136d5d5bf8de1631f9366952b605dfbedf418"
+
+[update]
+[update.modrinth]
+mod-id = "4CW6kj59"
+version = "vzqBlABC"

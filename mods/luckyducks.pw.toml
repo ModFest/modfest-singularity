@@ -1,0 +1,13 @@
+name = "Lucky Ducks"
+filename = "luckyducks-0.2.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1cjUVbYD/versions/MXvBgubp/luckyducks-0.2.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "8cb9a208d176345d4d39f3601d8553fd124b46e0"
+
+[update]
+[update.modrinth]
+mod-id = "1cjUVbYD"
+version = "MXvBgubp"

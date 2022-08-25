@@ -1,0 +1,13 @@
+name = "\"Better\" Smoke"
+filename = "bettersmoke-1.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EyAzv4x3/versions/Zs5OjgTR/bettersmoke-1.0.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "bfd8aef8529273c4ee6cac409cc39967772b844c"
+
+[update]
+[update.modrinth]
+mod-id = "EyAzv4x3"
+version = "Zs5OjgTR"

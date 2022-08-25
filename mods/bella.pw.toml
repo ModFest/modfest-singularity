@@ -1,0 +1,13 @@
+name = "Bella"
+filename = "Bella-1.1.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fSQghQl2/versions/s5NCBTbu/Bella-1.1.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "7ee270031be04d80f9d97c7c11ff19b73fdafbf4"
+
+[update]
+[update.modrinth]
+mod-id = "fSQghQl2"
+version = "s5NCBTbu"
