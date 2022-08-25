@@ -1,13 +1,13 @@
 name = "Crafting Bench"
-filename = "crafting-bench-0.1-ALPHA+1.19.jar"
+filename = "crafting-bench-0.2-ALPHA+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qesnEzsX/versions/oL9JHRce/crafting-bench-0.1-ALPHA%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/qesnEzsX/versions/H1wjsFRc/crafting-bench-0.2-ALPHA%2B1.19.jar"
 hash-format = "sha1"
-hash = "05de1fdff839c8110bce600ee7fd719815e9454d"
+hash = "34afb6be1538fc32f40f962ba09457ed08ddb93a"
 
 [update]
 [update.modrinth]
 mod-id = "qesnEzsX"
-version = "oL9JHRce"
+version = "H1wjsFRc"

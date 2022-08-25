@@ -1,0 +1,13 @@
+name = "BlossomExperienceBottling"
+filename = "blossom-experience-bottling-2.2.3+1.19.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tdZwwbo1/versions/7aZnXda7/blossom-experience-bottling-2.2.3%2B1.19.jar"
+hash-format = "sha1"
+hash = "09821e18cf890f697978227fae351b3ff58fb7d3"
+
+[update]
+[update.modrinth]
+mod-id = "tdZwwbo1"
+version = "7aZnXda7"

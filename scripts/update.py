@@ -41,7 +41,7 @@ def main():
         overrides_remove = json.load(overrides_file)
 
     # Install mods based on slugs and versions
-    for mod in submissions + overrides_add:
+    for mod in overrides_add + submissions:
         os.system('packwiz mr add https://modrinth.com/mod/' + mod['slug'] + '/version/' + mod['version_id'] + ' -y')
 
     for mod in overrides_remove:

@@ -3,6 +3,7 @@
 .idea/
 .gitattributes
 .gitignore
+.tool-versions
 README.md
 LICENSE
 scripts/

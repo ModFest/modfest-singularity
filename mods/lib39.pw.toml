@@ -1,0 +1,13 @@
+name = "Lib39"
+filename = "lib39-1.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BMsWWSPQ/versions/Te26714S/lib39-1.1.11.jar"
+hash-format = "sha1"
+hash = "2ab8a20d46b59078cb6867403f76ebff180632f5"
+
+[update]
+[update.modrinth]
+mod-id = "BMsWWSPQ"
+version = "Te26714S"

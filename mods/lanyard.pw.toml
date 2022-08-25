@@ -1,0 +1,13 @@
+name = "Lanyard"
+filename = "Lanyard-1.0.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gm9WYaih/versions/nmuAH4WK/Lanyard-1.0.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "6e40073f9cc5eedc1bbc0c3290e64cd706ad7ed6"
+
+[update]
+[update.modrinth]
+mod-id = "gm9WYaih"
+version = "nmuAH4WK"
