@@ -45,6 +45,11 @@ hash = "d5cb59e4e7591e0c8139b90c1ed3fffb8504b229a96a4fe47c5df784dadebe16"
 metafile = true
 
 [[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "ac7d074c6f7d6f9532f7bbc927fc5d1c3d917949b4a87a184e6c9288a040a547"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
@@ -516,5 +521,5 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "6a08db9bd455fdc5580cc1040616f57ca9a67db6ab8822605eac1571f38c3073"
+hash = "bb10872318ee269ed2a85f613a4e813211b6863ba9e2b1f3709354af8cd0c9aa"
 metafile = true
