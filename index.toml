@@ -11,11 +11,6 @@ hash = "f062cc71b8ef1c922cdd38b47673236bac80aebd4b127906d5172c9088bd0e7d"
 metafile = true
 
 [[files]]
-file = "mods/any1_of_us.pw.toml"
-hash = "6fb04bbfe08434c8e5028026824eccce5e69baeb850eff8a74a24865422a5bcd"
-metafile = true
-
-[[files]]
 file = "mods/aptitude.pw.toml"
 hash = "655afb8690c8fb4a8d969d9a528d7a5ecfdd10f9b9d1f5896fcdb0dfddaaf584"
 metafile = true
@@ -42,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/bedventory.pw.toml"
-hash = "a6b58129699482c21891469a7dfe25fd23555400c90fcc5c6b748ab20841a35d"
+hash = "af3282e3ceed5718a544c9745ffd9f463de6b1cd09a7ec677dfd527b6999e511"
 metafile = true
 
 [[files]]
@@ -457,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldinajar.pw.toml"
-hash = "e63263c7ad8e35ad58d1ca6fcab0ef7cf99011e0f4975dbf77e6700e6d12c8bb"
+hash = "b3f3a4668bbb51d824e1b72e638e0617f64b240180b7dc8f7d7a61e3374d6e88"
 metafile = true
 
 [[files]]
