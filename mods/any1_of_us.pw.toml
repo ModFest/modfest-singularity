@@ -1,0 +1,13 @@
+name = "Any one of us"
+filename = "anyone_of_us-0.1.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rhOyZ2CK/versions/4OxAXTzQ/anyone_of_us-0.1.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "fb297c09fdee8f496e05d41748f6fd4bfd83fb83"
+
+[update]
+[update.modrinth]
+mod-id = "rhOyZ2CK"
+version = "4OxAXTzQ"
