@@ -75,6 +75,11 @@ hash = "c1aaf90c7de6132e8a4b546cc2e7d738ddcb7e17567822cdf2652149d0f0b97b"
 metafile = true
 
 [[files]]
+file = "mods/bigfanofit.pw.toml"
+hash = "25721f3618f000c58f660706fa1ab3532d2f26aadeabbc5ad7d6fa064497d429"
+metafile = true
+
+[[files]]
 file = "mods/biome-technologies.pw.toml"
 hash = "df1afd57d7555960ec87991c297bffd17434bee008ae8e774ca84d1d8aa89171"
 metafile = true
