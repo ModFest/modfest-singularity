@@ -7,5 +7,8 @@
   {"slug": "energized-redstone", "comment": "1.0.0 prerelease server startup crash"},
   {"slug": "cake-world", "comment": "0.0.2 server startup crash"},
   {"slug": "myriad-bows", "comment": "0.1.2 server startup crash"},
-  {"slug": "bigfanofit", "comment": "1.0.3 crash on place"}
+  {"slug": "bigfanofit", "comment": "1.0.3 crash on place"},
+  {"slug": "worldinajar", "comment": "0.1.1 server startup crash"},
+  {"slug": "crafting-bench", "comment": "0.2 OOM on join with complex modded recipes"},
+  {"slug": "minecalc", "comment": "1.0.2 emi incompatibility"}
 ]

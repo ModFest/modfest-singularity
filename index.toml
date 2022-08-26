@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/any1_of_us.pw.toml"
-hash = "431066d63d38118b981935bef1dc0b922697e21ee9a0789e34378da3ce94773c"
+hash = "0cc99d928dee90e0acff1d92b0f23d1deee231741754be85f0fa5e6d6a62995b"
 metafile = true
 
 [[files]]
@@ -42,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/attraction.pw.toml"
 hash = "d5cb59e4e7591e0c8139b90c1ed3fffb8504b229a96a4fe47c5df784dadebe16"
+metafile = true
+
+[[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "ac7d074c6f7d6f9532f7bbc927fc5d1c3d917949b4a87a184e6c9288a040a547"
 metafile = true
 
 [[files]]
@@ -130,11 +135,6 @@ hash = "0f4065ebf6cdc217a2858b3e5d2558d921d4f9c819375a8169b26fa88dbdf6a4"
 metafile = true
 
 [[files]]
-file = "mods/crafting-bench.pw.toml"
-hash = "4b1c406a0e38ae34e9c63c1beafd9fea3a0d024714486c957b86e3f332b977c1"
-metafile = true
-
-[[files]]
 file = "mods/drogtor.pw.toml"
 hash = "0da6c09f627126988afb5a192e95147bf0911f954f07cf756550704c9ab4f540"
 metafile = true
@@ -190,6 +190,11 @@ hash = "a4d5e5090908a5abcce2c4f407f341e6b22873d7227ed26b986466a3bacfbbfc"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
+metafile = true
+
+[[files]]
 file = "mods/infused-immortality.pw.toml"
 hash = "a27cff617de7bb6d08f5fe2a694d3e4aedfb1bf2f39209749ba19941a2ed900e"
 metafile = true
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -292,11 +297,6 @@ metafile = true
 [[files]]
 file = "mods/mineball.pw.toml"
 hash = "1171b97eaac37bfa61cf0bd5d223a2071426f9143c65fc2cdd2a7ae6884c575d"
-metafile = true
-
-[[files]]
-file = "mods/minecalc.pw.toml"
-hash = "c9449977a6260567f13f2e0c56dc4263d9c2889a5d05325725c15822f46be099"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/relativity.pw.toml"
-hash = "d5898bac8e10030d12bed8ad0e3f95eedac92369065ca5bbea525eb4f63b118b"
+hash = "7239140c186d17d6f01ae9384182393d459e98c108743d3f770d1d3ce63fc29f"
 metafile = true
 
 [[files]]
@@ -450,6 +450,11 @@ hash = "278e901d5a4b5364df4afc05b61acc8b763ed05c79c84991af9a61598a53d915"
 metafile = true
 
 [[files]]
+file = "mods/taterzens.pw.toml"
+hash = "853f3e9b78f68e18118cdd92ff3619d2f849cefae363bb97808a45d3de896970"
+metafile = true
+
+[[files]]
 file = "mods/the-printer.pw.toml"
 hash = "ad9e8cd36629e2bd362bb8a75d9558ed8fde0b1710012b819ef649ad126f6a2f"
 metafile = true
@@ -500,11 +505,6 @@ hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
 metafile = true
 
 [[files]]
-file = "mods/worldinajar.pw.toml"
-hash = "b3f3a4668bbb51d824e1b72e638e0617f64b240180b7dc8f7d7a61e3374d6e88"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
 hash = "cae479bc37fce778b7716e9884b54d5cdcb5796d661fb00db29fde09dc806d59"
 metafile = true
@@ -516,5 +516,5 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "6a08db9bd455fdc5580cc1040616f57ca9a67db6ab8822605eac1571f38c3073"
+hash = "bb10872318ee269ed2a85f613a4e813211b6863ba9e2b1f3709354af8cd0c9aa"
 metafile = true
