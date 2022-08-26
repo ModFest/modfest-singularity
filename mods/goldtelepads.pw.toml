@@ -1,13 +1,13 @@
 name = "Gold Telepads"
-filename = "goldtelepads-1.0.0+1.19.jar"
+filename = "goldtelepads-1.0.2+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/j4fUcYMp/versions/We3tl9hD/goldtelepads-1.0.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/j4fUcYMp/versions/IcJOi0IT/goldtelepads-1.0.2%2B1.19.jar"
 hash-format = "sha1"
-hash = "5202a2f08774b30a6bd22264aba8a7ccd9fc9102"
+hash = "91e456ef98c9df99267f5a9cc11ec21154b53e0b"
 
 [update]
 [update.modrinth]
 mod-id = "j4fUcYMp"
-version = "We3tl9hD"
+version = "IcJOi0IT"

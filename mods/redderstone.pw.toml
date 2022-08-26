@@ -1,13 +1,13 @@
 name = "Redderstone"
-filename = "redderstone-0.2.5-fabric-quilt.jar"
+filename = "redderstone-0.2.6-fabric-quilt.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uEcJ3Ekq/versions/eefftkFk/redderstone-0.2.5-fabric-quilt.jar"
+url = "https://cdn.modrinth.com/data/uEcJ3Ekq/versions/iZklwOao/redderstone-0.2.6-fabric-quilt.jar"
 hash-format = "sha1"
-hash = "c50462947cd663745a7d1cbf1c1f05ed41c40208"
+hash = "fe4e48807ba283176981d0f213db0bc4c532f2e5"
 
 [update]
 [update.modrinth]
 mod-id = "uEcJ3Ekq"
-version = "eefftkFk"
+version = "iZklwOao"
