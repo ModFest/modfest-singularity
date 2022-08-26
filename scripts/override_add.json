@@ -1,10 +1,20 @@
 [
   {"slug": "cardinal-components-api", "version_id": "hRgkWC9v", "comment": "5.0.1 isn't marked supporting 1.19.2"},
-  {"slug": "blossomlib", "version_id": "AcgVwx9c", "comment": "2.3.2+1.19 isn't marked supporting 1.19.2"},
-  {"slug": "chime", "version_id": "tI9r2PAy", "comment": "1.3.0 isn't marked supporting 1.19.2"},
-  {"slug": "sodium", "version_id": "Yp8wLY1P"},
-  {"slug": "modmenu", "version_id": "8TOgNwQL"},
-  {"slug": "ears", "version_id": "qZkbcILO"},
-  {"slug": "drogtor", "version_id": "VqASPoLT"},
-  {"slug": "emi", "version_id": "LAmIsYNr"}
+  {"slug": "blossomlib",              "version_id": "AcgVwx9c", "comment": "2.3.2+1.19 isn't marked supporting 1.19.2"},
+  {"slug": "chime",                   "version_id": "tI9r2PAy", "comment": "1.3.0 isn't marked supporting 1.19.2"},
+  {"slug": "sodium",                  "version_id": "Yp8wLY1P", "comment": "performance/stability"},
+  {"slug": "iris",                    "version_id": "q2kq4WQK", "comment": "performance/stability"},
+  {"slug": "lazydfu",                 "version_id": "4SHylIO9", "comment": "performance/stability"},
+  {"slug": "lithium",                 "version_id": "Zs3sdHjK", "comment": "performance/stability"},
+  {"slug": "starlight",               "version_id": "qH1xCwoC", "comment": "performance/stability"},
+  {"slug": "krypton",                 "version_id": "UJ6FlFnK", "comment": "performance/stability"},
+  {"slug": "modmenu",                 "version_id": "8TOgNwQL", "comment": "utility"},
+  {"slug": "emi",                     "version_id": "LAmIsYNr", "comment": "utility"},
+  {"slug": "wthit",                   "version_id": "tk1TfxbW", "comment": "utility"},
+  {"slug": "yttr",                    "version_id": "RMMuKPnl", "comment": "building"},
+  {"slug": "aurorasdecorations",      "version_id": "RMMuKPnl", "comment": "building"},
+  {"slug": "arch-ex",                 "version_id": "sweOupoy", "comment": "building"},
+  {"slug": "ears",                    "version_id": "qZkbcILO", "comment": "optional dep"},
+  {"slug": "drogtor",                 "version_id": "VqASPoLT", "comment": "optional dep"},
+  {"slug": "fabrictailor",            "version_id": "vosWnCNv", "comment": "optional dep"}
 ]

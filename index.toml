@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yttr.css"
+hash = "31bae3fcc12ba94e28ae6659fdf07a9c182d7a129caef53488798afb56f1a5f7"
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "05a7879786bc5537e8de0c7e9b02ba93c19d5b9bcea32f276808e1318e24e050"
 metafile = true
@@ -12,12 +16,17 @@ metafile = true
 
 [[files]]
 file = "mods/any1_of_us.pw.toml"
-hash = "6fb04bbfe08434c8e5028026824eccce5e69baeb850eff8a74a24865422a5bcd"
+hash = "431066d63d38118b981935bef1dc0b922697e21ee9a0789e34378da3ce94773c"
 metafile = true
 
 [[files]]
 file = "mods/aptitude.pw.toml"
 hash = "655afb8690c8fb4a8d969d9a528d7a5ecfdd10f9b9d1f5896fcdb0dfddaaf584"
+metafile = true
+
+[[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "d8ab07c1dcf51ad3f5cf25f425f938c3540e575e3353ff6c0f5d0c4b990a38ab"
 metafile = true
 
 [[files]]
@@ -36,13 +45,18 @@ hash = "d5cb59e4e7591e0c8139b90c1ed3fffb8504b229a96a4fe47c5df784dadebe16"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
+metafile = true
+
+[[files]]
 file = "mods/beamforming.pw.toml"
 hash = "87b329e61b4a25fddcd5c2b177b85b9784a3ef355eaa39c853ed6ea871113806"
 metafile = true
 
 [[files]]
 file = "mods/bedventory.pw.toml"
-hash = "a6b58129699482c21891469a7dfe25fd23555400c90fcc5c6b748ab20841a35d"
+hash = "af3282e3ceed5718a544c9745ffd9f463de6b1cd09a7ec677dfd527b6999e511"
 metafile = true
 
 [[files]]
@@ -156,6 +170,11 @@ hash = "26679081c894f4aa5500c3720dbdca3a72fa11b5305d8c7c0e604a7b3d990675"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+metafile = true
+
+[[files]]
 file = "mods/fox-plushies.pw.toml"
 hash = "2506864b4b09b94a6cdd7162512af422a12d031cf7eb6a090a8be6a0be6fb0f7"
 metafile = true
@@ -178,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/ingstorm.pw.toml"
 hash = "a12d26e421b1fd0dc0ec523b206b47a523c6b9b6ccc19420c83ece2af0ddcfcf"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
@@ -211,6 +235,11 @@ hash = "94865ef86f229df1ce78a22498f41779fd56313c6e7c8efe678f7253c56c09db"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+metafile = true
+
+[[files]]
 file = "mods/la-cucaracha.pw.toml"
 hash = "05f21c8c213c9486012c89bc94fbd22f81a23ad8af0bea8413901d8357b8cbd0"
 metafile = true
@@ -221,8 +250,18 @@ hash = "445c6a6a12512aef60e9c6956dc8f97329ac9282ce73e2763a0955200f557bb8"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
 file = "mods/limits-grapple.pw.toml"
 hash = "02a76fdb09f007f29356f4431aa7269497a3189ec7d2fc797605cf76dee36bae"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
@@ -391,6 +430,11 @@ hash = "e97be39323a8308156c6104794303076f97b5e09c124ce423896355cdd8fa247"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
 file = "mods/succ.pw.toml"
 hash = "74183ab677fd0c5275725dd22859f26c952c2369bbe4c0eedb5a38df6a5e8fa7"
 metafile = true
@@ -457,10 +501,20 @@ metafile = true
 
 [[files]]
 file = "mods/worldinajar.pw.toml"
-hash = "e63263c7ad8e35ad58d1ca6fcab0ef7cf99011e0f4975dbf77e6700e6d12c8bb"
+hash = "b3f3a4668bbb51d824e1b72e638e0617f64b240180b7dc8f7d7a61e3374d6e88"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "cae479bc37fce778b7716e9884b54d5cdcb5796d661fb00db29fde09dc806d59"
 metafile = true
 
 [[files]]
 file = "mods/yardwork.pw.toml"
-hash = "cbf545d80e362e7f5f9bc173c8e32b490e05ac117aaf74f80b1ebc7097b90a5d"
+hash = "2a7fef4cb6feb5170ec0faac6c554840ee988e0906c6dc3ad49c9f48b0afa96a"
+metafile = true
+
+[[files]]
+file = "mods/yttr.pw.toml"
+hash = "6a08db9bd455fdc5580cc1040616f57ca9a67db6ab8822605eac1571f38c3073"
 metafile = true
