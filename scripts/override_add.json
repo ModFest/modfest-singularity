@@ -1,6 +1,10 @@
 [
-  {"slug": "sodium", "version_id": "Yp8wLY1P"},
   {"slug": "cardinal-components-api", "version_id": "hRgkWC9v", "comment": "5.0.1 isn't marked supporting 1.19.2"},
   {"slug": "blossomlib", "version_id": "AcgVwx9c", "comment": "2.3.2+1.19 isn't marked supporting 1.19.2"},
-  {"slug": "chime", "version_id": "tI9r2PAy", "comment": "1.3.0 isn't marked supporting 1.19.2"}
+  {"slug": "chime", "version_id": "tI9r2PAy", "comment": "1.3.0 isn't marked supporting 1.19.2"},
+  {"slug": "sodium", "version_id": "Yp8wLY1P"},
+  {"slug": "modmenu", "version_id": "8TOgNwQL"},
+  {"slug": "ears", "version_id": "qZkbcILO"},
+  {"slug": "drogtor", "version_id": "VqASPoLT"},
+  {"slug": "emi", "version_id": "LAmIsYNr"}
 ]

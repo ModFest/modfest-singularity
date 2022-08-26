@@ -1,8 +1,12 @@
 [
-  {"slug": "fabric-api"},
-  {"slug": "fabric-language-kotlin"},
+  {"slug": "fabric-api", "comment": "QFAPI"},
+  {"slug": "fabric-language-kotlin", "comment": "QKL"},
+  {"slug": "lib39", "comment": "embed, don't require"},
+  {"slug": "cardinal-components-api", "comment": "embed, don't require"},
   {"slug": "patterns", "comment": "startup crash on 1.0.2"},
   {"slug": "energized-redstone", "comment": "1.0.0 prerelease server startup crash"},
   {"slug": "cake-world", "comment": "0.0.2 server startup crash"},
-  {"slug": "myriad-bows", "comment": "0.1.2 server startup crash"}
+  {"slug": "myriad-bows", "comment": "0.1.2 server startup crash"},
+  {"slug": "any1-of-us", "comment": "0.1.1 softlock/kick when holding items"},
+  {"slug": "bigfanofit", "comment": "1.0.3 crash on place"}
 ]
