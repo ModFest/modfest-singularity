@@ -15,11 +15,6 @@ hash = "f062cc71b8ef1c922cdd38b47673236bac80aebd4b127906d5172c9088bd0e7d"
 metafile = true
 
 [[files]]
-file = "mods/any1_of_us.pw.toml"
-hash = "431066d63d38118b981935bef1dc0b922697e21ee9a0789e34378da3ce94773c"
-metafile = true
-
-[[files]]
 file = "mods/aptitude.pw.toml"
 hash = "655afb8690c8fb4a8d969d9a528d7a5ecfdd10f9b9d1f5896fcdb0dfddaaf584"
 metafile = true
@@ -37,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
 hash = "4389ae3af4073dc3f0eda14e31ba3c0fc66e4889b2cc5c2e66254bd2477615ee"
+metafile = true
+
+[[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "b0c3cd58565ed97f3e334db5438874ab574ea7000cea4be74490a47b8417a33f"
 metafile = true
 
 [[files]]
@@ -192,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/heighthaltingheels.pw.toml"
 hash = "a4d5e5090908a5abcce2c4f407f341e6b22873d7227ed26b986466a3bacfbbfc"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -455,6 +460,11 @@ hash = "278e901d5a4b5364df4afc05b61acc8b763ed05c79c84991af9a61598a53d915"
 metafile = true
 
 [[files]]
+file = "mods/taterzens.pw.toml"
+hash = "853f3e9b78f68e18118cdd92ff3619d2f849cefae363bb97808a45d3de896970"
+metafile = true
+
+[[files]]
 file = "mods/the-printer.pw.toml"
 hash = "ad9e8cd36629e2bd362bb8a75d9558ed8fde0b1710012b819ef649ad126f6a2f"
 metafile = true
@@ -502,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/whipdashing.pw.toml"
 hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
-metafile = true
-
-[[files]]
-file = "mods/worldinajar.pw.toml"
-hash = "b3f3a4668bbb51d824e1b72e638e0617f64b240180b7dc8f7d7a61e3374d6e88"
 metafile = true
 
 [[files]]

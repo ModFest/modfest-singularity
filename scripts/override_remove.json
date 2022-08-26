@@ -8,5 +8,6 @@
   {"slug": "cake-world", "comment": "0.0.2 server startup crash"},
   {"slug": "myriad-bows", "comment": "0.1.2 server startup crash"},
   {"slug": "any1_of_us", "comment": "0.1.1 softlock/kick when holding items"},
-  {"slug": "bigfanofit", "comment": "1.0.3 crash on place"}
+  {"slug": "bigfanofit", "comment": "1.0.3 crash on place"},
+  {"slug": "worldinajar", "comment": "0.1.1 server startup crash"}
 ]
