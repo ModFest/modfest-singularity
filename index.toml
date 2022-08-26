@@ -60,11 +60,6 @@ hash = "87b329e61b4a25fddcd5c2b177b85b9784a3ef355eaa39c853ed6ea871113806"
 metafile = true
 
 [[files]]
-file = "mods/bedventory.pw.toml"
-hash = "af3282e3ceed5718a544c9745ffd9f463de6b1cd09a7ec677dfd527b6999e511"
-metafile = true
-
-[[files]]
 file = "mods/bella.pw.toml"
 hash = "c41fcc33b72091bbad84b3ae5f18bd6b24d8da213a21ced9637559092d49b202"
 metafile = true
@@ -72,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/bettersmoke.pw.toml"
 hash = "c1aaf90c7de6132e8a4b546cc2e7d738ddcb7e17567822cdf2652149d0f0b97b"
+metafile = true
+
+[[files]]
+file = "mods/bigfanofit.pw.toml"
+hash = "976a4df42d4d70e6d10737329eb216af57d9499d1db12e416f4b672293cc87e6"
 metafile = true
 
 [[files]]
