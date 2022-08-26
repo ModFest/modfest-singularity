@@ -15,6 +15,11 @@ hash = "f062cc71b8ef1c922cdd38b47673236bac80aebd4b127906d5172c9088bd0e7d"
 metafile = true
 
 [[files]]
+file = "mods/any1_of_us.pw.toml"
+hash = "0cc99d928dee90e0acff1d92b0f23d1deee231741754be85f0fa5e6d6a62995b"
+metafile = true
+
+[[files]]
 file = "mods/aptitude.pw.toml"
 hash = "655afb8690c8fb4a8d969d9a528d7a5ecfdd10f9b9d1f5896fcdb0dfddaaf584"
 metafile = true
@@ -32,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
 hash = "4389ae3af4073dc3f0eda14e31ba3c0fc66e4889b2cc5c2e66254bd2477615ee"
-metafile = true
-
-[[files]]
-file = "mods/armorstandeditor.pw.toml"
-hash = "b0c3cd58565ed97f3e334db5438874ab574ea7000cea4be74490a47b8417a33f"
 metafile = true
 
 [[files]]
@@ -132,11 +132,6 @@ metafile = true
 [[files]]
 file = "mods/command-actions.pw.toml"
 hash = "0f4065ebf6cdc217a2858b3e5d2558d921d4f9c819375a8169b26fa88dbdf6a4"
-metafile = true
-
-[[files]]
-file = "mods/crafting-bench.pw.toml"
-hash = "4b1c406a0e38ae34e9c63c1beafd9fea3a0d024714486c957b86e3f332b977c1"
 metafile = true
 
 [[files]]
@@ -386,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/relativity.pw.toml"
-hash = "d5898bac8e10030d12bed8ad0e3f95eedac92369065ca5bbea525eb4f63b118b"
+hash = "7239140c186d17d6f01ae9384182393d459e98c108743d3f770d1d3ce63fc29f"
 metafile = true
 
 [[files]]
