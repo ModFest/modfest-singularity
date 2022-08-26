@@ -300,11 +300,6 @@ hash = "1171b97eaac37bfa61cf0bd5d223a2071426f9143c65fc2cdd2a7ae6884c575d"
 metafile = true
 
 [[files]]
-file = "mods/minecalc.pw.toml"
-hash = "c9449977a6260567f13f2e0c56dc4263d9c2889a5d05325725c15822f46be099"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
