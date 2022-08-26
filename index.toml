@@ -60,11 +60,6 @@ hash = "87b329e61b4a25fddcd5c2b177b85b9784a3ef355eaa39c853ed6ea871113806"
 metafile = true
 
 [[files]]
-file = "mods/bedventory.pw.toml"
-hash = "af3282e3ceed5718a544c9745ffd9f463de6b1cd09a7ec677dfd527b6999e511"
-metafile = true
-
-[[files]]
 file = "mods/bella.pw.toml"
 hash = "c41fcc33b72091bbad84b3ae5f18bd6b24d8da213a21ced9637559092d49b202"
 metafile = true
@@ -302,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/mineball.pw.toml"
 hash = "1171b97eaac37bfa61cf0bd5d223a2071426f9143c65fc2cdd2a7ae6884c575d"
+metafile = true
+
+[[files]]
+file = "mods/minecalc.pw.toml"
+hash = "c9449977a6260567f13f2e0c56dc4263d9c2889a5d05325725c15822f46be099"
 metafile = true
 
 [[files]]
