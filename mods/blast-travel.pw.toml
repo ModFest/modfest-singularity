@@ -1,13 +1,13 @@
 name = "Blast Travel"
-filename = "blasttravel-1.0.2+1.19.jar"
+filename = "blasttravel-1.0.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8zYyDYqD/versions/CuaIVb2i/blasttravel-1.0.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/8zYyDYqD/versions/aKj6pOSS/blasttravel-1.0.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "22f61f808ca74f40fe0a4c349b86d904178bb5c1"
+hash = "d852a20aa6432b186266ea994821f338d3ecc17d"
 
 [update]
 [update.modrinth]
 mod-id = "8zYyDYqD"
-version = "CuaIVb2i"
+version = "aKj6pOSS"

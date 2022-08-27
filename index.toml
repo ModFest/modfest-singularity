@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
-hash = "bda81c5c31a202d0732d465b5d0a1627960ba6e0ba19c815ac5b0f21f987c164"
+hash = "30e7b44fcca0e5f7936f8fadcffb85457069d576553f7d55892792109c10e51d"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/blast-travel.pw.toml"
-hash = "3070025cca4cf41ce0edd3b6106a74eab8760fcad7a73a71de1e18ef57a9ddb2"
+hash = "a1cd9bc3565e9124e6293d6f4b08ce11ecfe23942c21bb696e769ffbb9708d3a"
 metafile = true
 
 [[files]]
@@ -367,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/quiltgoslighlyfasterlol.pw.toml"
 hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
+metafile = true
+
+[[files]]
+file = "mods/recovery-plus.pw.toml"
+hash = "1e734114aeb5e0da7d3a23314dea566f2f83b0303069b7d7e9b237dd4a748d57"
 metafile = true
 
 [[files]]
