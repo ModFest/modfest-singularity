@@ -1,13 +1,13 @@
 name = "The Printer"
-filename = "theprinter-1.0.1+1.19.jar"
+filename = "theprinter-1.0.2+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u8LBQOAl/versions/8xrYqzwr/theprinter-1.0.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/u8LBQOAl/versions/t78u4NFj/theprinter-1.0.2%2B1.19.jar"
 hash-format = "sha1"
-hash = "ae0fb231ed7947163da4159dcd22af3804a8501e"
+hash = "3e5eabc554f8d2ddf647b15f376b8586c947ed84"
 
 [update]
 [update.modrinth]
 mod-id = "u8LBQOAl"
-version = "8xrYqzwr"
+version = "t78u4NFj"

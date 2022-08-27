@@ -1,13 +1,13 @@
 name = "Soul Under Sculk (SUS)"
-filename = "soul_under_sculk-1.0.1.jar"
+filename = "soul_under_sculk-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZZatoAH3/versions/LjaFVCDe/soul_under_sculk-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/ZZatoAH3/versions/WLbi7wDc/soul_under_sculk-1.0.2.jar"
 hash-format = "sha1"
-hash = "5b3e94aa8057939b7d1371615f14e7fdf8fa6ac0"
+hash = "8d0988ad3fbb830cc8f300c70a110eb0f7390e4e"
 
 [update]
 [update.modrinth]
 mod-id = "ZZatoAH3"
-version = "LjaFVCDe"
+version = "WLbi7wDc"
