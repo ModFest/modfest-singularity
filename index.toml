@@ -6,17 +6,12 @@ hash = "31bae3fcc12ba94e28ae6659fdf07a9c182d7a129caef53488798afb56f1a5f7"
 
 [[files]]
 file = "mods/advanced-networking.pw.toml"
-hash = "05a7879786bc5537e8de0c7e9b02ba93c19d5b9bcea32f276808e1318e24e050"
+hash = "ac1e616bee097a852384b77cb98ef05d19ccbc2a4944d8e14a5a2173838dd69f"
 metafile = true
 
 [[files]]
 file = "mods/affectionate.pw.toml"
 hash = "f062cc71b8ef1c922cdd38b47673236bac80aebd4b127906d5172c9088bd0e7d"
-metafile = true
-
-[[files]]
-file = "mods/any1_of_us.pw.toml"
-hash = "0cc99d928dee90e0acff1d92b0f23d1deee231741754be85f0fa5e6d6a62995b"
 metafile = true
 
 [[files]]
@@ -37,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
 hash = "4389ae3af4073dc3f0eda14e31ba3c0fc66e4889b2cc5c2e66254bd2477615ee"
+metafile = true
+
+[[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "bda81c5c31a202d0732d465b5d0a1627960ba6e0ba19c815ac5b0f21f987c164"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/la-cucaracha.pw.toml"
-hash = "05f21c8c213c9486012c89bc94fbd22f81a23ad8af0bea8413901d8357b8cbd0"
+hash = "e24c81418be785a19f6903c76598989fcb36e3f6406af4a911bfd8f43a2cc6b7"
 metafile = true
 
 [[files]]
@@ -297,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/mineball.pw.toml"
 hash = "1171b97eaac37bfa61cf0bd5d223a2071426f9143c65fc2cdd2a7ae6884c575d"
+metafile = true
+
+[[files]]
+file = "mods/minecalc.pw.toml"
+hash = "c9449977a6260567f13f2e0c56dc4263d9c2889a5d05325725c15822f46be099"
 metafile = true
 
 [[files]]
@@ -365,11 +370,6 @@ hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
 metafile = true
 
 [[files]]
-file = "mods/recovery-plus.pw.toml"
-hash = "d6a3103ff1bf38bcf753a4170298c19d910f3039492b5b1bf3772d93e8910907"
-metafile = true
-
-[[files]]
 file = "mods/redderstone.pw.toml"
 hash = "3c0cf0c7d636df22f7672382fed2ffa8b7c80438928b13f53a1d0c80f8d6353c"
 metafile = true
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-under-sculk.pw.toml"
-hash = "30349c04d7a0c33dd9763bbc2671a3ad0a41e3f5b7e4f15c1d8a611adb927915"
+hash = "885f824b0fcc6c7f370fecb004e76ec1ea4c9e087d9d1568b366b0283ea0aac7"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-printer.pw.toml"
-hash = "ad9e8cd36629e2bd362bb8a75d9558ed8fde0b1710012b819ef649ad126f6a2f"
+hash = "a91cf089cc33f289f4737ce72eedd34471787ab4686cbd8a1f1848ae48b7bb7a"
 metafile = true
 
 [[files]]
