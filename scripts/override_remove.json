@@ -8,7 +8,5 @@
   {"slug": "cake-world", "comment": "0.0.2 server startup crash"},
   {"slug": "myriad-bows", "comment": "0.1.2 server startup crash"},
   {"slug": "worldinajar", "comment": "0.1.2 extreme logspam"},
-  {"slug": "crafting-bench", "comment": "0.2 OOM on join with complex modded recipes"},
-  {"slug": "bedventory", "comment": "1.0.3 bad implements"},
-  {"slug": "any1_of_us", "comment": "0.1.3 softlock/kick when holding items"}
+  {"slug": "crafting-bench", "comment": "0.2 OOM on join with complex modded recipes"}
 ]
