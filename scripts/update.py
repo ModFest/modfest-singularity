@@ -42,19 +42,18 @@ def main():
 
     # Install mods based on slugs and versions
     for mod in overrides_add + submissions:
-        os.system('packwiz mr add https://modrinth.com/mod/' + mod['slug'] + '/version/' + mod['version_id'] + ' -y')
+        os.system('packwiz mr add ' + (mod['slug'] if 'version_id' not in mod else 'https://modrinth.com/mod/' + mod['slug'] + '/version/' + mod['version_id']) + ' -y')
 
     for mod in overrides_remove:
         os.system('packwiz remove ' + mod['slug'])
 
     # Prompt
-    print('Packwiz master pack updated! Next steps:')
-    print('1. Scan the log for errors from running [packwiz mr add] commands')
-    print('2. Bump pack version in pack.toml. Make any necessary mod config changes')
-    print('3. run [packwiz serve] and smoke test local client and server instances')
+    print('Update complete! Next Steps:')
+    print('1. CTRL+F for \"fail\" in the log')
+    print('2. Bump pack version in pack.toml')
+    print('3. `packwiz serve` and smoke test using local client+server')
     print('5. commit and push')
-    print('6. let github pages build or make sure repo is copied to host')
-    print('7. smoke test production client and server instances')
+    print('6. smoke test using production client+server')
 
 
 if __name__ == "__main__":
