@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bigfanofit.pw.toml"
-hash = "0931129679d506d4a169820feda57a8f69979143731a22d58a38052c2247def2"
+hash = "9838a01cd4e71f7451ea685ea8b15aa6c8e2def016480562d73184d67a6288ab"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e17ae2c96de4d1c334308a80f4c63f1f071035911334186a9f1bd77496c105a5"
+hash = "bfab458387dcc53a26972399dbacf6612ad7a8800fca9cd37c6e92e01dbe8ac4"
 metafile = true
 
 [[files]]
@@ -311,12 +311,12 @@ metafile = true
 
 [[files]]
 file = "mods/mineball.pw.toml"
-hash = "1171b97eaac37bfa61cf0bd5d223a2071426f9143c65fc2cdd2a7ae6884c575d"
+hash = "9d73314bcbc185f89b86ef03e09b07fbbecfd30781b9407dad57d4cf454d3144"
 metafile = true
 
 [[files]]
 file = "mods/minecalc.pw.toml"
-hash = "c9449977a6260567f13f2e0c56dc4263d9c2889a5d05325725c15822f46be099"
+hash = "6cb5fea02043f49dead87f9a8e9709f7c725df5fcd418d5f682c9c84d67dd253"
 metafile = true
 
 [[files]]
@@ -342,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/mushroom-mod.pw.toml"
 hash = "0ef254d9d44942f33ee3405ce0e253dd883b922e5af32943dc2656fa964d4f70"
+metafile = true
+
+[[files]]
+file = "mods/myriad-bows.pw.toml"
+hash = "229d553cd29685e4a271f3528626eead01490216427cda759212da45ac024ec0"
 metafile = true
 
 [[files]]
@@ -486,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/thematchmakers.pw.toml"
-hash = "516a417817a1a0d83da1d8adc7b0ef216ae2f7e13b292c9dd5fbcd1b096238bb"
+hash = "cfe754b658854e10d73f0b63d07aba17418134858d8d163a4c156ad27450d31b"
 metafile = true
 
 [[files]]
@@ -502,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/tropics.pw.toml"
 hash = "bd4c47e15a68b8110eef6aad500d279d587e5bf6d8b86288d5a3a0f7bdfea3d2"
+metafile = true
+
+[[files]]
+file = "mods/unofficial-sodium-biome-blending-fix.pw.toml"
+hash = "372a411132154ed7b76bf177d42722fcb4cb526b49aed29ddf762818b9425e37"
 metafile = true
 
 [[files]]
@@ -530,6 +540,11 @@ hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
 metafile = true
 
 [[files]]
+file = "mods/worldinajar.pw.toml"
+hash = "d2e6e253fc4f3b0512e74b64c4ab24d3305d69e6f3250ef9043f5770341ac081"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "cae479bc37fce778b7716e9884b54d5cdcb5796d661fb00db29fde09dc806d59"
 metafile = true
@@ -541,5 +556,5 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "81c3acf5a8ca9c61d815f1cd35d688a15410926335114c453c7eb244bd67f0ff"
+hash = "a7a46a90f6e06ddc18474a65ad015ed7591b69144f7d2458ba4da344448d4c2c"
 metafile = true

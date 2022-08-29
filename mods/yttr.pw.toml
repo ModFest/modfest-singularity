@@ -1,13 +1,13 @@
 name = "Yttr"
-filename = "yttr-6.580+1.19.jar"
+filename = "yttr-6.582+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZCLrWdGm/versions/1Sr4F3vq/yttr-6.580%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/ZCLrWdGm/versions/V9RP9Hnw/yttr-6.582%2B1.19.jar"
 hash-format = "sha1"
-hash = "1029a2aa534d5274d2636b2279742eae79db948a"
+hash = "265322279001789de04a8e407c94b0d503cd239d"
 
 [update]
 [update.modrinth]
 mod-id = "ZCLrWdGm"
-version = "1Sr4F3vq"
+version = "V9RP9Hnw"

@@ -1,13 +1,13 @@
 name = "Minecalc"
-filename = "minecalc-1.0.2+1.19.2.jar"
+filename = "minecalc-1.0.3+1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vptsNFMA/versions/NG6VhmUl/minecalc-1.0.2%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/vptsNFMA/versions/3z6o6DvO/minecalc-1.0.3%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "5ee419a91afa95ba40803ee29b606d3d15c26b83"
+hash = "e1be522e8b2a26c1536871f4063cc57dd4e0052a"
 
 [update]
 [update.modrinth]
 mod-id = "vptsNFMA"
-version = "NG6VhmUl"
+version = "3z6o6DvO"
