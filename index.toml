@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bigfanofit.pw.toml"
-hash = "0931129679d506d4a169820feda57a8f69979143731a22d58a38052c2247def2"
+hash = "ffc1f076db9ab370f627ad3b9b35a74995d3bfe29c26cc4921b040a9225f2382"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e17ae2c96de4d1c334308a80f4c63f1f071035911334186a9f1bd77496c105a5"
+hash = "bfab458387dcc53a26972399dbacf6612ad7a8800fca9cd37c6e92e01dbe8ac4"
 metafile = true
 
 [[files]]
@@ -311,12 +311,12 @@ metafile = true
 
 [[files]]
 file = "mods/mineball.pw.toml"
-hash = "1171b97eaac37bfa61cf0bd5d223a2071426f9143c65fc2cdd2a7ae6884c575d"
+hash = "9d73314bcbc185f89b86ef03e09b07fbbecfd30781b9407dad57d4cf454d3144"
 metafile = true
 
 [[files]]
 file = "mods/minecalc.pw.toml"
-hash = "c9449977a6260567f13f2e0c56dc4263d9c2889a5d05325725c15822f46be099"
+hash = "6cb5fea02043f49dead87f9a8e9709f7c725df5fcd418d5f682c9c84d67dd253"
 metafile = true
 
 [[files]]
@@ -541,5 +541,5 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "81c3acf5a8ca9c61d815f1cd35d688a15410926335114c453c7eb244bd67f0ff"
+hash = "a7a46a90f6e06ddc18474a65ad015ed7591b69144f7d2458ba4da344448d4c2c"
 metafile = true

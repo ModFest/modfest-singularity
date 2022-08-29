@@ -1,13 +1,13 @@
 name = "Mineball"
-filename = "mineball-1.0.0+1.19.jar"
+filename = "mineball-1.1.0+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/brG64WLx/versions/Ysf0C1QO/mineball-1.0.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/brG64WLx/versions/GmIp1yH5/mineball-1.1.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "13acb6fb1b6035b5b012888a33280d82de876028"
+hash = "318b3c30f7b0204eb745eca7a9d753a1317874e4"
 
 [update]
 [update.modrinth]
 mod-id = "brG64WLx"
-version = "Ysf0C1QO"
+version = "GmIp1yH5"
