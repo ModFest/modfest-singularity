@@ -4,6 +4,7 @@
   {"slug": "chime",                   "version_id": "tI9r2PAy", "comment": "1.3.0 isn't marked supporting 1.19.2"},
   {"slug": "krypton",                 "version_id": "vx0mZa04", "comment": "performance/stability - no 1.19.2"},
   {"slug": "taterzens",               "version_id": "xPiHN4AU", "comment": "building - no 1.19.2"},
+  {"slug": "unofficial-sodium-biome-blending-fix",              "comment": "bugfixes"},
   {"slug": "sodium",                  "comment": "performance/stability"},
   {"slug": "iris",                    "comment": "performance/stability"},
   {"slug": "lazydfu",                 "comment": "performance/stability"},

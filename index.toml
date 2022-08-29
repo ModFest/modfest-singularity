@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bigfanofit.pw.toml"
-hash = "ffc1f076db9ab370f627ad3b9b35a74995d3bfe29c26cc4921b040a9225f2382"
+hash = "9838a01cd4e71f7451ea685ea8b15aa6c8e2def016480562d73184d67a6288ab"
 metafile = true
 
 [[files]]
@@ -345,6 +345,11 @@ hash = "0ef254d9d44942f33ee3405ce0e253dd883b922e5af32943dc2656fa964d4f70"
 metafile = true
 
 [[files]]
+file = "mods/myriad-bows.pw.toml"
+hash = "229d553cd29685e4a271f3528626eead01490216427cda759212da45ac024ec0"
+metafile = true
+
+[[files]]
 file = "mods/packy.pw.toml"
 hash = "44b89627acadfd474e87fb03e62c110d3bd915a12571ce78235be0fd3df2d6d9"
 metafile = true
@@ -486,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/thematchmakers.pw.toml"
-hash = "516a417817a1a0d83da1d8adc7b0ef216ae2f7e13b292c9dd5fbcd1b096238bb"
+hash = "cfe754b658854e10d73f0b63d07aba17418134858d8d163a4c156ad27450d31b"
 metafile = true
 
 [[files]]
@@ -502,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/tropics.pw.toml"
 hash = "bd4c47e15a68b8110eef6aad500d279d587e5bf6d8b86288d5a3a0f7bdfea3d2"
+metafile = true
+
+[[files]]
+file = "mods/unofficial-sodium-biome-blending-fix.pw.toml"
+hash = "372a411132154ed7b76bf177d42722fcb4cb526b49aed29ddf762818b9425e37"
 metafile = true
 
 [[files]]
@@ -527,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/whipdashing.pw.toml"
 hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
+metafile = true
+
+[[files]]
+file = "mods/worldinajar.pw.toml"
+hash = "d2e6e253fc4f3b0512e74b64c4ab24d3305d69e6f3250ef9043f5770341ac081"
 metafile = true
 
 [[files]]
