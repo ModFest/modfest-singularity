@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/emi.css"
+hash = "b5f068482d639199645cde4d5657018afa7dd08c5a5f002715c2500a811ce20e"
+
+[[files]]
 file = "config/yttr.css"
 hash = "31bae3fcc12ba94e28ae6659fdf07a9c182d7a129caef53488798afb56f1a5f7"
 
@@ -131,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloak-of-gray-tomorrow.pw.toml"
-hash = "e7080f92bf0a087265d65647bf9e08639b476222629253bd7cac4af0d182054c"
+hash = "4120bf922f6e26c12e1e3080ec43321a8b589875784f221a4209510268420f41"
 metafile = true
 
 [[files]]
 file = "mods/colossalcakes.pw.toml"
-hash = "079ae0b48116f51d685bcb36c57869228a4ce84834f6bb321dcfb523239e5d23"
+hash = "d0d250eaac58a71e6bb08bdfca0ce52e97ad9dde504e7f5d892bc0d84e7916ed"
 metafile = true
 
 [[files]]
@@ -167,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "a60267bf4464a726c93e1cac3594b8ce1fb2f4a41a24bccffdf737b05dcce0be"
+metafile = true
+
+[[files]]
+file = "mods/energized-redstone.pw.toml"
+hash = "30d041c89fe8811e32fee5dbe1bcba2e4482d05056864bcf79984a6bc3559e58"
 metafile = true
 
 [[files]]
@@ -206,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "35fefbf2a09f2899361fd9a7999138e06f804aa8b89dfc5a323103a219c2d88a"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
@@ -221,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bfab458387dcc53a26972399dbacf6612ad7a8800fca9cd37c6e92e01dbe8ac4"
+hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
 metafile = true
 
 [[files]]
@@ -246,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/kahur.pw.toml"
-hash = "0e760443a4996e394a50ae200e3758c4d404c0e93598643f92a78cf5502c34b8"
+hash = "ff6e0b1c5d972ff070ad0ac7023649b814052775db486917917e0eaa298a4c64"
 metafile = true
 
 [[files]]
@@ -441,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
@@ -526,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerbefriending.pw.toml"
-hash = "ccfd5db6c17df610a1c71f771a7eb54ba2c4f2003e2ccfe1d3c4e7542793dbde"
+hash = "3927b6f269aca5a3cfb72b38119e5c03a4760840afcae560f9c37f2cf506b125"
 metafile = true
 
 [[files]]
@@ -552,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/yardwork.pw.toml"
 hash = "2a7fef4cb6feb5170ec0faac6c554840ee988e0906c6dc3ad49c9f48b0afa96a"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]

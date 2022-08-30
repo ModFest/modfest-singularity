@@ -1,0 +1,13 @@
+name = "Energized Redstone"
+filename = "energized_redstone-1.0.1-prerelease.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nOwTh30L/versions/c621E8Sb/energized_redstone-1.0.1-prerelease.jar"
+hash-format = "sha1"
+hash = "d40d8ebd11f866d990ed81c17dec0fc1f0a6a2e9"
+
+[update]
+[update.modrinth]
+mod-id = "nOwTh30L"
+version = "c621E8Sb"

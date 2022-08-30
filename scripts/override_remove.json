@@ -4,7 +4,6 @@
   {"slug": "lib39", "comment": "embed, don't require"},
   {"slug": "cardinal-components-api", "comment": "embed, don't require"},
   {"slug": "patterns", "comment": "1.0.3 crash when used"},
-  {"slug": "energized-redstone", "comment": "1.0.0 prerelease server startup crash"},
   {"slug": "cake-world", "comment": "0.0.2 server startup crash"},
   {"slug": "crafting-bench", "comment": "0.2 OOM on join with complex modded recipes"}
 ]

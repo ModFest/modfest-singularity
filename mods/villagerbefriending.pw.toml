@@ -1,13 +1,13 @@
 name = "Villager Befriending"
-filename = "Villager-Befriending-1.0.0.jar"
+filename = "Villager-Befriending-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NwP7qeRt/versions/8V6KjCCY/Villager-Befriending-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/NwP7qeRt/versions/x5iTs6Qq/Villager-Befriending-1.0.1.jar"
 hash-format = "sha1"
-hash = "7c0c2c9ca8e68a9c805b98c4968f3549e8c71fc4"
+hash = "3007f9553c10555d1ae46e342efcd2d1c59e8c1e"
 
 [update]
 [update.modrinth]
 mod-id = "NwP7qeRt"
-version = "8V6KjCCY"
+version = "x5iTs6Qq"
