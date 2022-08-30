@@ -1,13 +1,13 @@
 name = "Cloak of Gray Tomorrow"
-filename = "graytomorrow-1.0.2+1.19.jar"
+filename = "graytomorrow-1.0.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZDvt3xu7/versions/yiaJa1iv/graytomorrow-1.0.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/ZDvt3xu7/versions/q5aK2zNj/graytomorrow-1.0.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "c21e7ef8ba53f7d10a61ee7d9da78469c0affdd0"
+hash = "2df3dc161fbea642a7114f5465044abb674a9c35"
 
 [update]
 [update.modrinth]
 mod-id = "ZDvt3xu7"
-version = "yiaJa1iv"
+version = "q5aK2zNj"
