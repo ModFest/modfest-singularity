@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/affectionate.pw.toml"
-hash = "f062cc71b8ef1c922cdd38b47673236bac80aebd4b127906d5172c9088bd0e7d"
+hash = "57c751a13a63e24201f0880a88376e3f5ae11b865863ebfc21f3333469f0cee8"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "f282a8e13584a517d78ae041814d780159f3124b6313bb479e571c526b5bdbaf"
+hash = "8f9e56b55c818715abdfe0ca2a72644f0f10f690bddf74eb03032a6bdc5cd7d3"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/bigfanofit.pw.toml"
-hash = "9838a01cd4e71f7451ea685ea8b15aa6c8e2def016480562d73184d67a6288ab"
+hash = "81481eb2c44e09f5c5d0a972bc1f878f8b44212a3903918550a7430dd931e647"
 metafile = true
 
 [[files]]
@@ -566,11 +566,6 @@ metafile = true
 [[files]]
 file = "mods/yardwork.pw.toml"
 hash = "c9ac9b465556ca8969089f4ecc38dd9c906fa044faff97eda246a7c1ef03acde"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
