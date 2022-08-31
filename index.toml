@@ -574,6 +574,11 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
 file = "mods/yttr.pw.toml"
 hash = "a7a46a90f6e06ddc18474a65ad015ed7591b69144f7d2458ba4da344448d4c2c"
 metafile = true
