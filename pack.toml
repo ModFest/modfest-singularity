@@ -1,12 +1,12 @@
 name = "Modfest: Singularity"
 author = "Modfest Organizers and Participants"
-version = "0.0.6"
+version = "0.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6a80c408b1370cdf3f372ce46edd85eb4836886d0fac8ec31f97b2c7de56e354"
+hash = "398f78aa88b89f92b41f759c2948b040cde7ccc9e27e4b5c60b37585e7e79263"
 
 [versions]
 minecraft = "1.19.2"

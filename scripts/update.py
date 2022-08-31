@@ -8,7 +8,7 @@ import subprocess
 
 def packwiz_pretty_print(command, ignore_errors=False):
     try:
-        output = subprocess.check_output(command)
+        output = subprocess.check_output(command, shell=True)
     except subprocess.CalledProcessError as err:
         output = err.output
         if not ignore_errors:
@@ -38,7 +38,7 @@ def main():
     override_add_path = './scripts/override_add.json'
     override_remove_path = './scripts/override_remove.json'
     submissions_url = 'https://platform.modfest.net/submissions'
-    min_install_time = 0.3
+    min_install_time = 0.6
 
     # Change working directory
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
