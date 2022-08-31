@@ -1,0 +1,13 @@
+name = "Patterns"
+filename = "patterns-1.0.4+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K3S2lIsX/versions/7rqvmtsr/patterns-1.0.4%2B1.19.jar"
+hash-format = "sha1"
+hash = "be9f9374f598aa68ef4535d2eb32401721d75e90"
+
+[update]
+[update.modrinth]
+mod-id = "K3S2lIsX"
+version = "7rqvmtsr"

@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "ac7d074c6f7d6f9532f7bbc927fc5d1c3d917949b4a87a184e6c9288a040a547"
+hash = "f282a8e13584a517d78ae041814d780159f3124b6313bb479e571c526b5bdbaf"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-technologies.pw.toml"
-hash = "df1afd57d7555960ec87991c297bffd17434bee008ae8e774ca84d1d8aa89171"
+hash = "dd930397f217717385ed4e4a4f81d2533cdd90f87d4fddd80dcbca8c09cf3b7b"
 metafile = true
 
 [[files]]
@@ -146,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/command-actions.pw.toml"
 hash = "0f4065ebf6cdc217a2858b3e5d2558d921d4f9c819375a8169b26fa88dbdf6a4"
+metafile = true
+
+[[files]]
+file = "mods/crafting-bench.pw.toml"
+hash = "8fcbea58b6efc9e798f32b652a492f361ac05ffdcd92dc4ef368acf54afa6f1c"
 metafile = true
 
 [[files]]
@@ -364,6 +369,11 @@ hash = "44b89627acadfd474e87fb03e62c110d3bd915a12571ce78235be0fd3df2d6d9"
 metafile = true
 
 [[files]]
+file = "mods/patterns.pw.toml"
+hash = "2c81c40f2ce7dc8b1fa39fc67dadec4e8a75e1a8ebb41fa4dfc588ffe06c369c"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "b3a5f6bcab7382577050322f78a606f06e2011bf69a9baa179c687317368d1ae"
 metafile = true
@@ -395,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b3a33693d3a9a6d9715cdfa45bde46a9f0374c7d858a1658e8c28972e59862a1"
+hash = "814dfcd204a9ee484d8db1c20b037584bc24903c2c29418e12f0b52be33bbcb9"
 metafile = true
 
 [[files]]
@@ -549,18 +559,18 @@ hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
 metafile = true
 
 [[files]]
-file = "mods/worldinajar.pw.toml"
-hash = "d2e6e253fc4f3b0512e74b64c4ab24d3305d69e6f3250ef9043f5770341ac081"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
 hash = "cae479bc37fce778b7716e9884b54d5cdcb5796d661fb00db29fde09dc806d59"
 metafile = true
 
 [[files]]
 file = "mods/yardwork.pw.toml"
-hash = "2a7fef4cb6feb5170ec0faac6c554840ee988e0906c6dc3ad49c9f48b0afa96a"
+hash = "c9ac9b465556ca8969089f4ecc38dd9c906fa044faff97eda246a7c1ef03acde"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
