@@ -1,2 +1,0 @@
-key_iris.keybind.reload:key.keyboard.unknown
-key_key.minecalc.opencalc:key.keyboard.backslash
