@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "b3a5f6bcab7382577050322f78a606f06e2011bf69a9baa179c687317368d1ae"
+hash = "b8fc16dda19cf918380c01d8ffb49c1380904dbe6d8290c6758e4ae5e07b1a06"
 metafile = true
 
 [[files]]
@@ -490,12 +490,12 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "ea262aab85122326adca2b315ebe5d62394193f20300997b61b4426d48834484"
+hash = "e5b465de922fa326c22c763b710367c0a95f6fc1e9056d2fac1f105f71b5ed5f"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "278e901d5a4b5364df4afc05b61acc8b763ed05c79c84991af9a61598a53d915"
+hash = "2ea0ceadea8934e29af710456c51209f8cbf3cda7f00f1e04337a4e687aaa55a"
 metafile = true
 
 [[files]]

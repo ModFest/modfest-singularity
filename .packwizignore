@@ -8,3 +8,5 @@ README.md
 LICENSE
 scripts/
 instances/
+git/
+enable_hooks.sh
