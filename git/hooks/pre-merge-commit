@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+
+. git-sh-setup
+test -x "$GIT_DIR/hooks/pre-commit" &&
+  exec "$GIT_DIR/hooks/pre-commit"
+:
