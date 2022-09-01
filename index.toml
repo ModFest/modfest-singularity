@@ -5,6 +5,10 @@ file = "config/yosbr/config/emi.css"
 hash = "b5f068482d639199645cde4d5657018afa7dd08c5a5f002715c2500a811ce20e"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "169f8e128df9da98dae37eb95129ea360bf9cc0d5aa79f43bf7a1648e6babf6c"
+
+[[files]]
 file = "config/yttr.css"
 hash = "31bae3fcc12ba94e28ae6659fdf07a9c182d7a129caef53488798afb56f1a5f7"
 
