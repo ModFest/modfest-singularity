@@ -1,13 +1,13 @@
 name = "Vegan't Meat Fields"
-filename = "ethicalmeatfields-1.0.2+1.19.jar"
+filename = "ethicalmeatfields-1.0.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SpKnFCWf/versions/NfOUwCKn/ethicalmeatfields-1.0.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/SpKnFCWf/versions/3zHH5rQv/ethicalmeatfields-1.0.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "4e2e15d92c4eff7622f4a9d8d6b5c60cbee3aa03"
+hash = "0140e8b47b8f690f99b93a9ca303777c1826eb32"
 
 [update]
 [update.modrinth]
 mod-id = "SpKnFCWf"
-version = "NfOUwCKn"
+version = "3zHH5rQv"

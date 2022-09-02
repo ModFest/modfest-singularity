@@ -1,13 +1,13 @@
 name = "Limits' Grapple"
-filename = "limits_grapple-0.6.2-1.19.jar"
+filename = "limits_grapple-0.6.3-1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ag7gQVdT/versions/fsWM7sDP/limits_grapple-0.6.2-1.19.jar"
+url = "https://cdn.modrinth.com/data/Ag7gQVdT/versions/zsovJNBp/limits_grapple-0.6.3-1.19.jar"
 hash-format = "sha1"
-hash = "06dd7bd3703e75371866d69aff3a05983ea440b8"
+hash = "1224ca4ac97019f2a76e86ecaaf79ccb2544c12d"
 
 [update]
 [update.modrinth]
 mod-id = "Ag7gQVdT"
-version = "fsWM7sDP"
+version = "zsovJNBp"
