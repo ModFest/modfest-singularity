@@ -564,6 +564,10 @@ hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
 metafile = true
 
 [[files]]
+file = "mods/worldinajar-0.1.4-1.19.2+MODFEST.5.jar"
+hash = "d677baa0224ec409f3f1172f0d26160b69a70e6bf4b12e236c2437e10a3b5964"
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "cae479bc37fce778b7716e9884b54d5cdcb5796d661fb00db29fde09dc806d59"
 metafile = true
