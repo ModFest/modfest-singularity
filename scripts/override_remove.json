@@ -3,6 +3,5 @@
   {"slug": "fabric-language-kotlin", "comment": "QKL"},
   {"slug": "lib39", "comment": "embed, don't require"},
   {"slug": "cardinal-components-api", "comment": "embed, don't require"},
-  {"slug": "cake-world", "comment": "0.0.2 server startup crash"},
   {"slug": "worldinajar", "comment": "0.1.3 save failure"}
 ]

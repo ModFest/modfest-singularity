@@ -1,0 +1,13 @@
+name = "Cake World"
+filename = "cake_world-0.0.5+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OdLOExu2/versions/I5eO8kcf/cake_world-0.0.5%2B1.19.jar"
+hash-format = "sha1"
+hash = "822f31168d1501842b6ccf7ea57c3aabb74c1490"
+
+[update]
+[update.modrinth]
+mod-id = "OdLOExu2"
+version = "I5eO8kcf"
