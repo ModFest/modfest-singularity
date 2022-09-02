@@ -80,6 +80,9 @@ def main():
     for mod in overrides_remove:
         packwiz_pretty_print('packwiz remove ' + mod['slug'], ignore_errors=True)
 
+    # Copy in overriding jar files, you heretic
+    shutil.copytree('./scripts/overrides', './mods', dirs_exist_ok=True)  # Python 3.8 :pineapple:
+
     # Prompt
     print('Update successful! Next Steps:')
     print('1. Bump pack version in pack.toml')

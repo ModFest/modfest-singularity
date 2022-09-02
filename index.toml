@@ -119,6 +119,11 @@ hash = "76aad3f61482f9023b443e10110e270ccb80e1fcbbe8754e72f676e119817c86"
 metafile = true
 
 [[files]]
+file = "mods/cake-world.pw.toml"
+hash = "d62902cb0d3da8f14abe538d5eaedb4f08d2ef392094171cb5e8f234e38d8c40"
+metafile = true
+
+[[files]]
 file = "mods/celestria.pw.toml"
 hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
 metafile = true
@@ -557,6 +562,10 @@ metafile = true
 file = "mods/whipdashing.pw.toml"
 hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
 metafile = true
+
+[[files]]
+file = "mods/worldinajar-0.1.4-1.19.2+MODFEST.5.jar"
+hash = "d677baa0224ec409f3f1172f0d26160b69a70e6bf4b12e236c2437e10a3b5964"
 
 [[files]]
 file = "mods/wthit.pw.toml"
