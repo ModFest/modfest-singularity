@@ -1,13 +1,13 @@
 name = "Big Fan of It"
-filename = "bigfan-1.0.8.jar"
+filename = "bigfan-1.0.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nvMj02Es/versions/iYm90n6V/bigfan-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/nvMj02Es/versions/GzEBhKtW/bigfan-1.0.8.1.jar"
 hash-format = "sha1"
-hash = "dd0c6006cd959d8547aac2ea59bec2333e043184"
+hash = "585f02c88636174d5a400c2d117ae9da63f571de"
 
 [update]
 [update.modrinth]
 mod-id = "nvMj02Es"
-version = "iYm90n6V"
+version = "GzEBhKtW"
