@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/cake-world.pw.toml"
-hash = "d62902cb0d3da8f14abe538d5eaedb4f08d2ef392094171cb5e8f234e38d8c40"
+hash = "e7864bd6708763c2b3a040006c70caea1f9f9bf92067e5160e197c1aa0426f72"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "cae479bc37fce778b7716e9884b54d5cdcb5796d661fb00db29fde09dc806d59"
+hash = "de08ce31ccfbd64fb308ddb0d1076d4e6cd65ac43bd6a16e57e01a1d14336428"
 metafile = true
 
 [[files]]
