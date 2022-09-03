@@ -2,6 +2,5 @@
   {"slug": "fabric-api", "comment": "QFAPI"},
   {"slug": "fabric-language-kotlin", "comment": "QKL"},
   {"slug": "lib39", "comment": "embed, don't require"},
-  {"slug": "cardinal-components-api", "comment": "embed, don't require"},
-  {"slug": "worldinajar", "comment": "0.1.3 save failure - temporarily overridden from fork"}
+  {"slug": "cardinal-components-api", "comment": "embed, don't require"}
 ]
