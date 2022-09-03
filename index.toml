@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/bigfanofit.pw.toml"
-hash = "10df5ef6cbdbe7b669f6853937fdd02f75e38ec2f4122a22c5c81f77c1c0d501"
+hash = "82ad444fd25d7ab1ad7240a774b24ea33bc91bc089599b7dcf546c31194a098e"
 metafile = true
 
 [[files]]
