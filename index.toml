@@ -564,8 +564,9 @@ hash = "c774b5349d333117a289e9f59e850247c276712783c4ec110ed1a72239e68f6e"
 metafile = true
 
 [[files]]
-file = "mods/worldinajar-0.1.4-1.19.2+MODFEST.5.jar"
-hash = "d677baa0224ec409f3f1172f0d26160b69a70e6bf4b12e236c2437e10a3b5964"
+file = "mods/worldinajar.pw.toml"
+hash = "c9ef0e3a2baea03d5531a6ecc0e04294d3f0ec0387d17b61b2d4b464cb4c5522"
+metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
@@ -574,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/yardwork.pw.toml"
-hash = "c9ac9b465556ca8969089f4ecc38dd9c906fa044faff97eda246a7c1ef03acde"
+hash = "cfae75716e1d9a4e459fe088530ea48eadddd9d1728bd2c375c9f24a9cf4244f"
 metafile = true
 
 [[files]]
