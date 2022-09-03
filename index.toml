@@ -274,6 +274,11 @@ hash = "94865ef86f229df1ce78a22498f41779fd56313c6e7c8efe678f7253c56c09db"
 metafile = true
 
 [[files]]
+file = "mods/kofi-table.pw.toml"
+hash = "8726c3ef33756d400f3f5fc00da96608ced3a11742682ef29bd4287225fe70d8"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -374,8 +379,18 @@ hash = "44b89627acadfd474e87fb03e62c110d3bd915a12571ce78235be0fd3df2d6d9"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
+metafile = true
+
+[[files]]
 file = "mods/patterns.pw.toml"
 hash = "2c81c40f2ce7dc8b1fa39fc67dadec4e8a75e1a8ebb41fa4dfc588ffe06c369c"
+metafile = true
+
+[[files]]
+file = "mods/peculiar-pieces.pw.toml"
+hash = "f6b0664f4c82fbbce5808e3485c61251aeb42fdbd97f084b115a1991cc9cdf59"
 metafile = true
 
 [[files]]
@@ -551,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/villagerbefriending.pw.toml"
 hash = "3927b6f269aca5a3cfb72b38119e5c03a4760840afcae560f9c37f2cf506b125"
+metafile = true
+
+[[files]]
+file = "mods/visible-barriers.pw.toml"
+hash = "b5e708bc1681f12638a7c82d234e4292749cc05ef5ea09a226f9e5086e2e71ea"
 metafile = true
 
 [[files]]

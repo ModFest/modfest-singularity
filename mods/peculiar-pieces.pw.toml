@@ -1,0 +1,13 @@
+name = "Peculiar Pieces"
+filename = "peculiar-pieces-1.2.6+1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qCIOjJW2/versions/sRN1D5YS/peculiar-pieces-1.2.6%2B1.19.x.jar"
+hash-format = "sha1"
+hash = "6aee692c3ccd7dd79d51a11c299ab012dff816d2"
+
+[update]
+[update.modrinth]
+mod-id = "qCIOjJW2"
+version = "sRN1D5YS"

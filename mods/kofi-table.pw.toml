@@ -1,0 +1,13 @@
+name = "Ko-fi Table"
+filename = "kofi-table-1.0.4+1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ycUyVm1V/versions/qq8rUFA4/kofi-table-1.0.4%2B1.19.x.jar"
+hash-format = "sha1"
+hash = "2c97583ec388f3ffd8688f0fc4612c4d5d0765e6"
+
+[update]
+[update.modrinth]
+mod-id = "ycUyVm1V"
+version = "qq8rUFA4"
