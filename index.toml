@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/recovery-plus.pw.toml"
-hash = "1e734114aeb5e0da7d3a23314dea566f2f83b0303069b7d7e9b237dd4a748d57"
+hash = "90d6e7adaf265d6b90fb5eef0138b18befb4d00d41344d5a6046148cc37c66fb"
 metafile = true
 
 [[files]]
