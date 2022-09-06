@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/jar-it.pw.toml"
-hash = "3e8a91df3ed4158a3a8cc2887d7da7a7126bd7ab5bba8a38e41b7fadde01ea2f"
+hash = "e8253739190a68dad3ded8dc908a682570d93a024aee14056ed61b5990fdb7b5"
 metafile = true
 
 [[files]]

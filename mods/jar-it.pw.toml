@@ -1,13 +1,13 @@
 name = "Jar It!"
-filename = "jar-it-0.1.5+1.19.2.jar"
+filename = "jar-it-0.1.8+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/o6qDedG5/versions/6qRWuFGx/jar-it-0.1.5%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/o6qDedG5/versions/pCduGEWq/jar-it-0.1.8%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "cd5ebb58db7c677bb2045bd5500d3c6676338967"
+hash = "0ffb83494972fffa2eb7f8dae2c08a980e29d7c9"
 
 [update]
 [update.modrinth]
 mod-id = "o6qDedG5"
-version = "6qRWuFGx"
+version = "pCduGEWq"
