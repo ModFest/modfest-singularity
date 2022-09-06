@@ -1,13 +1,13 @@
 name = "Biome Technologies™"
-filename = "biometech+1.19.2-0.1.1.jar"
+filename = "biometech-0.1.2+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XhDzIuvV/versions/og7o09Gw/biometech%2B1.19.2-0.1.1.jar"
+url = "https://cdn.modrinth.com/data/XhDzIuvV/versions/uTtBJsFk/biometech-0.1.2%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "766bfac1a71a123a6c367f40f14b5b49cc0b046f"
+hash = "1279ab2b5746f9ef30672068873615949941acbf"
 
 [update]
 [update.modrinth]
 mod-id = "XhDzIuvV"
-version = "og7o09Gw"
+version = "uTtBJsFk"
