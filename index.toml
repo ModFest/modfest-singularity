@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/tropics.pw.toml"
-hash = "928d425fa9acac59bbfc855114a90fc23fa106655aeeb5c609f88982e6fe2c18"
+hash = "bd6eeee400e2acef35b53129f15b616cdcf008c028c3485be313a716014d34d0"
 metafile = true
 
 [[files]]
