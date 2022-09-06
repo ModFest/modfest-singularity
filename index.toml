@@ -374,6 +374,11 @@ hash = "229d553cd29685e4a271f3528626eead01490216427cda759212da45ac024ec0"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
+metafile = true
+
+[[files]]
 file = "mods/packy.pw.toml"
 hash = "44b89627acadfd474e87fb03e62c110d3bd915a12571ce78235be0fd3df2d6d9"
 metafile = true
