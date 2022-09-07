@@ -1,13 +1,13 @@
 name = "Bouncy Castle!"
-filename = "bouncycastle-1.0.1+1.19.jar"
+filename = "bouncycastle-1.0.2+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CRUxDRy8/versions/ENxh5ZbG/bouncycastle-1.0.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/CRUxDRy8/versions/c5Klir8O/bouncycastle-1.0.2%2B1.19.jar"
 hash-format = "sha1"
-hash = "326160eb17f3ee0ccc41dfdebdc8103d93eacce9"
+hash = "4b99a1f4106a148eb0941533728d79ef2a96448b"
 
 [update]
 [update.modrinth]
 mod-id = "CRUxDRy8"
-version = "ENxh5ZbG"
+version = "c5Klir8O"

@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/bouncy-castle.pw.toml"
-hash = "76aad3f61482f9023b443e10110e270ccb80e1fcbbe8754e72f676e119817c86"
+hash = "d0446817acbad51d26396f64cf3101b513d0879c9e355e942c3ef69fe3a89c6a"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/moovy.pw.toml"
-hash = "f6d2c128108f3445a5a6e86d1e7fcc6d30cbb4780656b8ac1db5b73182769f20"
+hash = "77fa9e9e750ce2c064b9abae71fdcd76a936fc4fac41e9f2a62c5170db5ca7d4"
 metafile = true
 
 [[files]]
