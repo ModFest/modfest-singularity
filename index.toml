@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "36693528b71639d5bcb79f7cba70c9b2e2535303f49c0c34321b0a4e6ccc6c33"
+
+[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "b5f068482d639199645cde4d5657018afa7dd08c5a5f002715c2500a811ce20e"
 
