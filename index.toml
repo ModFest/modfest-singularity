@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/lanyard.pw.toml"
-hash = "445c6a6a12512aef60e9c6956dc8f97329ac9282ce73e2763a0955200f557bb8"
+hash = "bb7151b7e10df8cec028ccf61871b86e09304deb1754e905d0149b32f33ed10a"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulus.pw.toml"
-hash = "f0769a05aabeb77d221090f742127d6024af67057b5c7e52cf8e8aede6b1f99f"
+hash = "59b8459f0ca9b3d12bb2d7a91c975c298fef4594b329b3b58a43c6911393f627"
 metafile = true
 
 [[files]]
@@ -524,12 +524,12 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "e5b465de922fa326c22c763b710367c0a95f6fc1e9056d2fac1f105f71b5ed5f"
+hash = "a14b04e7f1a6b8932ceebc8ebe20dfd1ddcbd42eebbc89d2889420f708c59a1d"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "2ea0ceadea8934e29af710456c51209f8cbf3cda7f00f1e04337a4e687aaa55a"
+hash = "a6cbc20c6ad33c56df9c8ac4aecf4167ca747d80c358568c403c711c54e32eaf"
 metafile = true
 
 [[files]]
