@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulus.pw.toml"
-hash = "f0769a05aabeb77d221090f742127d6024af67057b5c7e52cf8e8aede6b1f99f"
+hash = "59b8459f0ca9b3d12bb2d7a91c975c298fef4594b329b3b58a43c6911393f627"
 metafile = true
 
 [[files]]
