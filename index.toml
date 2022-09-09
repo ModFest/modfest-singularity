@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulus.pw.toml"
-hash = "660506bad0b4bf50cbcf5ff042297bd224b173a76661de51d4837ad96a38dfe7"
+hash = "f82e7722898bd7dce6a3f84cf555713afdb3a38bff1dc8883f2a5d113d868114"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/packy.pw.toml"
-hash = "44b89627acadfd474e87fb03e62c110d3bd915a12571ce78235be0fd3df2d6d9"
+hash = "fc1b82fc641cc035d9528146b1301f34ae43b8e914a639e93749ccd4f6aeb017"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "a14b04e7f1a6b8932ceebc8ebe20dfd1ddcbd42eebbc89d2889420f708c59a1d"
+hash = "4beb078cf0a07b08eed69ae2f698830c208833fa4887323279e81b2111c91388"
 metafile = true
 
 [[files]]
