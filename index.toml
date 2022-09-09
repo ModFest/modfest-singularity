@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/boat-with-everything.pw.toml"
-hash = "2cd7466c73adc2c29bb110a3b8295330df54bc5645d2896a763598d741edce7d"
+hash = "057061da359d2d2c87aa85e18d6a1d633adf1ec1408380a19afe252dffea6073"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "044ef5a718ce92ec707bbf8dd18f460c074d977fd103b90a7379351d2f54b9bb"
+hash = "692cb8912b45d8d62a296ff22db90ece8b9e5ebbd6c44b58080e99d489be58d7"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldinajar.pw.toml"
-hash = "c9ef0e3a2baea03d5531a6ecc0e04294d3f0ec0387d17b61b2d4b464cb4c5522"
+hash = "38054df2a6e448f7c5f9c81934352e201a5fa434d04f6962982d10925cd4ab7d"
 metafile = true
 
 [[files]]
