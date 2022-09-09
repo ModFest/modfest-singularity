@@ -23,7 +23,6 @@
   {"slug": "glowcase",                "comment": "building"},
   {"slug": "picturesign",             "comment": "building"},
   {"slug": "peculiar-pieces",         "comment": "building"},
-  {"slug": "unofficial-sodium-biome-blending-fix",              "comment": "bugfixes"},
   {"slug": "ears",                    "comment": "optional dep"},
   {"slug": "drogtor",                 "comment": "optional dep"},
   {"slug": "fabrictailor",            "comment": "optional dep"}

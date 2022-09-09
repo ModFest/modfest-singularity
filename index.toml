@@ -563,11 +563,6 @@ hash = "bd6eeee400e2acef35b53129f15b616cdcf008c028c3485be313a716014d34d0"
 metafile = true
 
 [[files]]
-file = "mods/unofficial-sodium-biome-blending-fix.pw.toml"
-hash = "372a411132154ed7b76bf177d42722fcb4cb526b49aed29ddf762818b9425e37"
-metafile = true
-
-[[files]]
 file = "mods/untill.pw.toml"
 hash = "6e0a0709ad8c8dbe15069439ac6c72698fd3a7e0327cb2dd0846076f808d9881"
 metafile = true
