@@ -1,0 +1,13 @@
+name = "Fabrication"
+filename = "fabrication-3.0.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B3Eg0WhA/versions/3.0.2+1.19/fabrication-3.0.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "4685a4dafe7d34f49beeb178168031075f3a5eee"
+
+[update]
+[update.modrinth]
+mod-id = "B3Eg0WhA"
+version = "mG7iW4Gr"

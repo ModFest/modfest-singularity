@@ -5,6 +5,10 @@ file = "config/NoChatReports/NCR-Client.json"
 hash = "11981fe269d7c1d231b65d2db484b1ee4f1077e32d6f8cccbcb2ff324d789063"
 
 [[files]]
+file = "config/fabrication/features.ini"
+hash = "344f8ad6c49f96f0d057b0bb63549ee85aad179b5a87f94a682020776f0eac7f"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "45421bbd126a17358dce57fda4e7bc3153f503e7c3f2909f20ebef86e0774a89"
 
@@ -204,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/ethicalmeatfields.pw.toml"
 hash = "e784483f27b62bec6e98f86a613236c53cd9de99fcf8cc85c661816f73f7cc47"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "c4c771449e4fec227ee6d0477c2d32dbdcd8a0e3f9675140e53222363eda7112"
 metafile = true
 
 [[files]]
