@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
-hash = "4389ae3af4073dc3f0eda14e31ba3c0fc66e4889b2cc5c2e66254bd2477615ee"
+hash = "04bafeb7349cbb878ac129a04368a0076b0356f1614a5ef3c90d3cb5cd5b2d3f"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/engination.pw.toml"
-hash = "26c5b406f3b79ed49198f59e519badfc3a0cfa5a9b852c7475788642d9b3e75c"
+hash = "8dc5e3aee87a1e2389fed43af22b8723f79a8acfa42cead83d12a4c9c8bb9269"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulus.pw.toml"
-hash = "f0769a05aabeb77d221090f742127d6024af67057b5c7e52cf8e8aede6b1f99f"
+hash = "660506bad0b4bf50cbcf5ff042297bd224b173a76661de51d4837ad96a38dfe7"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/smunnel.pw.toml"
-hash = "f37a455becb0f81258725a9b89e24b5b13cc1845e0dc4d593031b7abe7f13ad3"
+hash = "296dce779c2bec13d027d6bafca957acb7ada85ed58967bb49e8c99fa43b7492"
 metafile = true
 
 [[files]]
