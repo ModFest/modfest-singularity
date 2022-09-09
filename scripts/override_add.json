@@ -15,6 +15,7 @@
   {"slug": "emi",                     "comment": "utility"},
   {"slug": "wthit",                   "comment": "utility"},
   {"slug": "no-chat-reports",         "comment": "utility"},
+  {"slug": "fabrication",             "comment": "utility"},
   {"slug": "spark",                   "version_id": "Biivc7P1", "comment": "utility"},
   {"slug": "yttr",                    "comment": "building"},
   {"slug": "aurorasdecorations",      "comment": "building"},
