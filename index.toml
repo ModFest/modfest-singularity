@@ -6,7 +6,7 @@ hash = "11981fe269d7c1d231b65d2db484b1ee4f1077e32d6f8cccbcb2ff324d789063"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "344f8ad6c49f96f0d057b0bb63549ee85aad179b5a87f94a682020776f0eac7f"
+hash = "39d7a33c57267ffce167ade59b8888819a813c11f9906f9de06a76f099ff957c"
 
 [[files]]
 file = "config/midnightlib.json"
