@@ -10,3 +10,4 @@ scripts/
 instances/
 git/
 enable_hooks.sh
+.DS_Store

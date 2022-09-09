@@ -10,7 +10,7 @@
 	 * timing on the server side. This makes timing firing the rifle feel much better, but a hacked
 	 * client can get perfect shots every time.
 	 */
-	trust-players: off;
+	trust-players: on;
 	
 	/*
 	 * If set to "on", enables inside-jokes and various chaos. Nothing destructive.
