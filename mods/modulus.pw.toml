@@ -1,13 +1,13 @@
 name = "|modulus|"
-filename = "modulus-0.1.3+1.19.jar"
+filename = "modulus-0.1.4+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IbQ6m4Wm/versions/erSlXYGj/modulus-0.1.3%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/IbQ6m4Wm/versions/HjKF1sIA/modulus-0.1.4%2B1.19.jar"
 hash-format = "sha1"
-hash = "0ca7f85710321023557c7510d277dbba7f35e5df"
+hash = "7de353a5031b57ebc228506e1ce5ac640da3d2d0"
 
 [update]
 [update.modrinth]
 mod-id = "IbQ6m4Wm"
-version = "erSlXYGj"
+version = "HjKF1sIA"
