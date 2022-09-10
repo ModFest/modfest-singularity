@@ -83,6 +83,9 @@ def main():
     # Copy in overriding jar files, you heretic
     shutil.copytree('./scripts/overrides', './mods', dirs_exist_ok=True)  # Python 3.8 :pineapple:
 
+    # Refresh just in case
+    os.system('packwiz refresh')
+
     # Prompt
     print('Update successful! Next Steps:')
     print('1. Bump pack version in pack.toml')

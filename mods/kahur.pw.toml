@@ -1,13 +1,13 @@
 name = "Kahur"
-filename = "kahur-1.26.jar"
+filename = "kahur-1.27.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eQK9k8y8/versions/hsXj248K/kahur-1.26.jar"
+url = "https://cdn.modrinth.com/data/eQK9k8y8/versions/sFlAX098/kahur-1.27.jar"
 hash-format = "sha1"
-hash = "e320c4a0b8c6e23796487e80c15fb97faf95dd53"
+hash = "ccade3f1dfbd32d8cb2cbb1e29a09760688238cf"
 
 [update]
 [update.modrinth]
 mod-id = "eQK9k8y8"
-version = "hsXj248K"
+version = "sFlAX098"

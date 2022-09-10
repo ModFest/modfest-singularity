@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
+hash = "59c8274b76d6b09e5cb16939ed8adbe8e2d38eadc85682125d6a9ede6653bcd2"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/kahur.pw.toml"
-hash = "ff6e0b1c5d972ff070ad0ac7023649b814052775db486917917e0eaa298a4c64"
+hash = "cd07fbd1399ce1e5b1067ad449ceb422a04826acce03fac7f07d40dd75a14547"
 metafile = true
 
 [[files]]
@@ -438,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/pridestrips.pw.toml"
 hash = "009459384f38af33e1b7bd341e6e77166f45cc5140719581a76fc3ecc89569ec"
+metafile = true
+
+[[files]]
+file = "mods/qdwarp.pw.toml"
+hash = "5150d9e239c7f93fa7bd4016abd21fb5523134cdec9c173c3473289096e91760"
 metafile = true
 
 [[files]]

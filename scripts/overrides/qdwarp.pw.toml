@@ -1,0 +1,8 @@
+name = "QDWarp"
+filename = "qdwarp-1.2.jar"
+side = "server"
+
+[download]
+url = "https://git.sleeping.town/attachments/e08d6061-4789-41b5-a823-ab52abaf1281"
+hash-format = "sha1"
+hash = "d5a55b12cbdcf873d6f2e5e2dc95d4ea5e58f55d"
