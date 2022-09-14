@@ -1,13 +1,13 @@
 name = "Moovy"
-filename = "moovy-0.0.9+1.19.jar"
+filename = "moovy-0.0.10+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xNAXb07O/versions/GgC9N6de/moovy-0.0.9%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/xNAXb07O/versions/JtWE4gqe/moovy-0.0.10%2B1.19.jar"
 hash-format = "sha1"
-hash = "12483774d47fdf8ecfc2e18461045a63b40431d1"
+hash = "20d73027782d18134b952159b9b08940d106f33d"
 
 [update]
 [update.modrinth]
 mod-id = "xNAXb07O"
-version = "GgC9N6de"
+version = "JtWE4gqe"

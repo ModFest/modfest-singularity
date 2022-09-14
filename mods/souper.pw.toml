@@ -1,13 +1,13 @@
 name = "Souper"
-filename = "souper-1.0.2+1.19.jar"
+filename = "souper-1.0.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CI3pWamH/versions/5SA9QixR/souper-1.0.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/CI3pWamH/versions/J8SmvUUj/souper-1.0.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "479542c33e44905f8bc9ba31b7da7f4160fd5ce9"
+hash = "ed90adc92e33b74c3bf7a2c4d40a7d5fa1e54262"
 
 [update]
 [update.modrinth]
 mod-id = "CI3pWamH"
-version = "5SA9QixR"
+version = "J8SmvUUj"
