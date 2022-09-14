@@ -1,13 +1,13 @@
 name = "Smunnel"
-filename = "smunnel-0.1.2+1.19.jar"
+filename = "smunnel-0.1.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/X2ZGszFK/versions/d0pggwN8/smunnel-0.1.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/X2ZGszFK/versions/bkBGgy5a/smunnel-0.1.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "4309de11e3c86f39cbb0c2173d975b72e3a1d4bf"
+hash = "acc0e4f527bcadb5de855bcea3520b8c85063cc6"
 
 [update]
 [update.modrinth]
 mod-id = "X2ZGszFK"
-version = "d0pggwN8"
+version = "bkBGgy5a"
