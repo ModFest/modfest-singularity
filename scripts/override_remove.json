@@ -1,6 +1,4 @@
 [
   {"slug": "fabric-api", "comment": "QFAPI"},
-  {"slug": "fabric-language-kotlin", "comment": "QKL"},
-  {"slug": "lib39", "comment": "embed, don't require"},
-  {"slug": "cardinal-components-api", "comment": "embed, don't require"}
+  {"slug": "fabric-language-kotlin", "comment": "QKL"}
 ]
