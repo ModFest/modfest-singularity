@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/aptitude.pw.toml"
-hash = "655afb8690c8fb4a8d969d9a528d7a5ecfdd10f9b9d1f5896fcdb0dfddaaf584"
+hash = "8423115bd45c7dcde769aa4bf80fcdeedc5b1a4841539e9d3a07c3c9037a5a32"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
-hash = "04bafeb7349cbb878ac129a04368a0076b0356f1614a5ef3c90d3cb5cd5b2d3f"
+hash = "c8079bf2cc63c42aac1bb9c2b4e6153b514e711d1ec3845e9a24b215df04e736"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
-hash = "3b7f0970aa5489ba1e6bda6e7c60c4e4582c58e7980aa0529044878465fc0b44"
+hash = "cd63a1765da62ceb595f11723dd56903c7f999d163a0013e4553b0ca70adcfb4"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
+hash = "ebc51dded184382bffbe4b7aeec50c2817f440851926d8fb2aac848ad369bedb"
 metafile = true
 
 [[files]]
@@ -551,9 +551,8 @@ hash = "b8824f39d66b029881b80cb88335ced74ebd686f3ff16693d7a8ad4d9af150b3"
 metafile = true
 
 [[files]]
-file = "mods/taterzens.pw.toml"
-hash = "853f3e9b78f68e18118cdd92ff3619d2f849cefae363bb97808a45d3de896970"
-metafile = true
+file = "mods/taterzens-1.11.0-fabric.jar"
+hash = "9ada60ce3085e284d3043438fa7ee64ccf0a300f31a65b6c057064be9f48fbd0"
 
 [[files]]
 file = "mods/the-printer.pw.toml"

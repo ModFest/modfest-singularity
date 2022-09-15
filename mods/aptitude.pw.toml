@@ -1,13 +1,13 @@
 name = "Aptitude"
-filename = "aptitude-0.1.1+1.19.2.jar"
+filename = "aptitude-0.1.2+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AVLEdsYF/versions/wNi00wm9/aptitude-0.1.1%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/AVLEdsYF/versions/Cu3sv99f/aptitude-0.1.2%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "e75bcdfd40248e88b7f46f10b301f23e80674a01"
+hash = "b7d2fd59dfc0d2dd56ad0650dbca30ea035c1256"
 
 [update]
 [update.modrinth]
 mod-id = "AVLEdsYF"
-version = "wNi00wm9"
+version = "Cu3sv99f"
