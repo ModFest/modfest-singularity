@@ -1,13 +1,13 @@
 name = "Peculiar Pieces"
-filename = "peculiar-pieces-1.2.10+1.19.x.jar"
+filename = "peculiar-pieces-1.2.11+1.19.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qCIOjJW2/versions/nwrto15o/peculiar-pieces-1.2.10%2B1.19.x.jar"
+url = "https://cdn.modrinth.com/data/qCIOjJW2/versions/CILR9lBt/peculiar-pieces-1.2.11%2B1.19.x.jar"
 hash-format = "sha1"
-hash = "ae2cded4017f177e32b5df58ca8979d07b707f82"
+hash = "5c89dd798ba132cb921c5874bd6ab824e4fb3cef"
 
 [update]
 [update.modrinth]
 mod-id = "qCIOjJW2"
-version = "nwrto15o"
+version = "CILR9lBt"
