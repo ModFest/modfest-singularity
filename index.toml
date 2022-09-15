@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/recovery-plus.pw.toml"
-hash = "90d6e7adaf265d6b90fb5eef0138b18befb4d00d41344d5a6046148cc37c66fb"
+hash = "64897dab2767854d4bea60042f97a20be253893fc0b15a1ce9ccfeabc39e80a9"
 metafile = true
 
 [[files]]
@@ -632,5 +632,5 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "a7a46a90f6e06ddc18474a65ad015ed7591b69144f7d2458ba4da344448d4c2c"
+hash = "782bb4a1ac12a0d906c3bdcee717f2445bee24742cdb2f89749913a396667d0e"
 metafile = true
