@@ -321,6 +321,11 @@ hash = "d3e7af0e25bda336bf9991e8a4372b75212dab4fc74eaaebb33f04a5347ac17f"
 metafile = true
 
 [[files]]
+file = "mods/limits-strawberries.pw.toml"
+hash = "f18c04afbdbc7eec6e69d1dd892eb9df497f9714fc7946d05bb1d4b3f3537cca"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/recovery-plus.pw.toml"
-hash = "64897dab2767854d4bea60042f97a20be253893fc0b15a1ce9ccfeabc39e80a9"
+hash = "7bdc5faf100006799052dea96062f44b20fb7ce8aa8f989e4dc6b7ec59aa485a"
 metafile = true
 
 [[files]]
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-under-sculk.pw.toml"
-hash = "6d07907030132a2c05f1757da0937bf34b3dc98d64176046219d837627c19f7e"
+hash = "085dc54a7e83cd1890a555377813785e7a8ec1e7aedc1fe07882221629ce0038"
 metafile = true
 
 [[files]]
@@ -611,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldinajar.pw.toml"
-hash = "2d1fd7c346de896185e49d9e9816ceb3a2d73150a2d56f180a3f3959c47806b8"
+hash = "794db23fd479ecc92256122403bad0dbb95cc49037e4dec2d7f2a07389f7d07a"
 metafile = true
 
 [[files]]

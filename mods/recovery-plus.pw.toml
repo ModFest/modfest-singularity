@@ -1,13 +1,13 @@
 name = "Recovery+"
-filename = "recovery_plus-0.3+1.19.jar"
+filename = "recovery_plus-0.3.1+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DU7GOxKZ/versions/F7kTwdqo/recovery_plus-0.3%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/DU7GOxKZ/versions/GYS74cJF/recovery_plus-0.3.1%2B1.19.jar"
 hash-format = "sha1"
-hash = "44bbf8a286cf6858f29c0903c777bec5b220d53a"
+hash = "86b27944e4c6f80b35ba0fa3f138954c4a181e98"
 
 [update]
 [update.modrinth]
 mod-id = "DU7GOxKZ"
-version = "F7kTwdqo"
+version = "GYS74cJF"
