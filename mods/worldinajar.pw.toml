@@ -1,13 +1,13 @@
 name = "World In A Jar"
-filename = "worldinajar-0.1.5-1.19.2+MODFEST.6.jar"
+filename = "worldinajar-0.1.6+1.19.2.MODFEST.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uvdL3H4g/versions/JzCiVVj0/worldinajar-0.1.5-1.19.2%2BMODFEST.6.jar"
+url = "https://cdn.modrinth.com/data/uvdL3H4g/versions/xfSjqa0z/worldinajar-0.1.6%2B1.19.2.MODFEST.7.jar"
 hash-format = "sha1"
-hash = "04daefdecde697574d2b88b4059649a07b3a68fc"
+hash = "39d275339830ef1384ff7e61d2669ed8dda23f9f"
 
 [update]
 [update.modrinth]
 mod-id = "uvdL3H4g"
-version = "JzCiVVj0"
+version = "xfSjqa0z"
