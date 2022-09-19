@@ -6,7 +6,7 @@ hash = "11981fe269d7c1d231b65d2db484b1ee4f1077e32d6f8cccbcb2ff324d789063"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "794d4f7df6922de0829ef714d93d8e8c8dc877f8ad5e733bc13b6d720df387ba"
+hash = "9a0e65b91fba82146eba394983314e39f35c856950ef0f48625688a9ea4cc758"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -166,6 +166,11 @@ hash = "0f4065ebf6cdc217a2858b3e5d2558d921d4f9c819375a8169b26fa88dbdf6a4"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "7568634b341040d1cf113179e16def7e685ee8d43663699c768401d25c979ad7"
+metafile = true
+
+[[files]]
 file = "mods/crafting-bench.pw.toml"
 hash = "8fcbea58b6efc9e798f32b652a492f361ac05ffdcd92dc4ef368acf54afa6f1c"
 metafile = true
@@ -322,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/limits-strawberries.pw.toml"
-hash = "6f97d159436e1b15e49b1a8b7feba93a1ba5ca4500ce2bb932d3aba6595925e2"
+hash = "f4e69e99a8a4c8c295ae537b2857ed5353ee32489eb369dfbccb6dbe347c522f"
 metafile = true
 
 [[files]]
@@ -571,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-hat.pw.toml"
-hash = "ae2ce11325bd06ac85519db134001b25d35b5ad1ae6bf42051b3a4ce2a78ae11"
+hash = "ee22da03d76dc760d1d792cc56539cd060e42312487ac95ce19aaef536a881bd"
 metafile = true
 
 [[files]]

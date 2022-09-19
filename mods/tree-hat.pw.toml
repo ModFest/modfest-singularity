@@ -1,13 +1,13 @@
 name = "Tree Hat"
-filename = "TreeHat-0.1.0.jar"
+filename = "TreeHat-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2oHl87t5/versions/YXcx6hvT/TreeHat-0.1.0.jar"
+url = "https://cdn.modrinth.com/data/2oHl87t5/versions/VuZMzNeB/TreeHat-1.0.1.jar"
 hash-format = "sha1"
-hash = "35a6c3b61d35412c49d4961677e5c56dcc738e01"
+hash = "477d9bf400c4e2243406d0deb1e3635064782e6b"
 
 [update]
 [update.modrinth]
 mod-id = "2oHl87t5"
-version = "YXcx6hvT"
+version = "VuZMzNeB"

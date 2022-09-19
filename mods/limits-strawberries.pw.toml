@@ -1,13 +1,13 @@
 name = "Limits' Strawberries"
-filename = "limits_strawberries-1.0.0-1.19.2.jar"
+filename = "limits_strawberries-1.1.0-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mWJbDUQp/versions/2q9cO4Ol/limits_strawberries-1.0.0-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/mWJbDUQp/versions/ziw4gCdL/limits_strawberries-1.1.0-1.19.2.jar"
 hash-format = "sha1"
-hash = "8af525651eff3e8b6b79506cc61496836925ac50"
+hash = "9984aa8bdbc18b224e1dfd0dabc526c5472ac51c"
 
 [update]
 [update.modrinth]
 mod-id = "mWJbDUQp"
-version = "2q9cO4Ol"
+version = "ziw4gCdL"
