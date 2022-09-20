@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-technologies.pw.toml"
-hash = "60ede506ba4e76726cf76a70a8d2e68155195758bb5ef13d806b8a3d64c5432a"
+hash = "42ab96fa67bf5c46b4d5fef39ca046b29411bd1b1e978201c5455d5bb9471b32"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/peculiar-pieces.pw.toml"
-hash = "637a7814657cad7f9d0ea7341fd2f9fdd01c98d7d56e4cb554c73ba278b0f757"
+hash = "e035370ed454972d212e3c7515d4d8487e9f12a13f2f70c6355b72b9cf9d8635"
 metafile = true
 
 [[files]]
