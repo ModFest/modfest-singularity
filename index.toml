@@ -6,7 +6,7 @@ hash = "11981fe269d7c1d231b65d2db484b1ee4f1077e32d6f8cccbcb2ff324d789063"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "9a0e65b91fba82146eba394983314e39f35c856950ef0f48625688a9ea4cc758"
+hash = "9923fabc8999316b1dfd765ee645c5eaa86d692dc0c9ecf0205eeed120043d56"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-technologies.pw.toml"
-hash = "60ede506ba4e76726cf76a70a8d2e68155195758bb5ef13d806b8a3d64c5432a"
+hash = "42ab96fa67bf5c46b4d5fef39ca046b29411bd1b1e978201c5455d5bb9471b32"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/limits-strawberries.pw.toml"
-hash = "f4e69e99a8a4c8c295ae537b2857ed5353ee32489eb369dfbccb6dbe347c522f"
+hash = "9650f6f42d57cf08a03dd93d8c5b5a573b5cef22ceb4ac49e1ce7d06ddb0adbd"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/peculiar-pieces.pw.toml"
-hash = "637a7814657cad7f9d0ea7341fd2f9fdd01c98d7d56e4cb554c73ba278b0f757"
+hash = "e035370ed454972d212e3c7515d4d8487e9f12a13f2f70c6355b72b9cf9d8635"
 metafile = true
 
 [[files]]
@@ -552,12 +552,12 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "4beb078cf0a07b08eed69ae2f698830c208833fa4887323279e81b2111c91388"
+hash = "4159a1facd7c3fdbc738092a2eda30c45dae13eb375514e251d4cb085e60e1f9"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "b8824f39d66b029881b80cb88335ced74ebd686f3ff16693d7a8ad4d9af150b3"
+hash = "2333e1e5248bbb54dc0fd6a7274924552f52a4f87601243c0903a06935584417"
 metafile = true
 
 [[files]]
