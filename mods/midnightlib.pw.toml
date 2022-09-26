@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-0.6.0.jar"
+filename = "midnightlib-0.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/codAaoxh/versions/s2fTj4LM/midnightlib-0.6.0.jar"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/WjT0Llfm/midnightlib-0.6.1.jar"
 hash-format = "sha1"
-hash = "6da31f2d13b4e5d49574ff235e45a2c6f8501ecd"
+hash = "1900376fa98df38ceec337874fc5ffe33501e5f0"
 
 [update]
 [update.modrinth]
 mod-id = "codAaoxh"
-version = "s2fTj4LM"
+version = "WjT0Llfm"
