@@ -21,6 +21,18 @@ file = "config/yttr.css"
 hash = "bf1e03f6bfde8d1df9fce0880bf36ebf05a6957abfc038923d0b10a00c7b0e37"
 
 [[files]]
+file = "datapacks/Nerf Roaches/data/la_cucaracha/tags/entity_types/roach_carriers.json"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
+
+[[files]]
+file = "datapacks/Nerf Roaches/data/la_cucaracha/tags/worldgen/structure/roach_structure.json"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
+
+[[files]]
+file = "datapacks/Nerf Roaches/pack.mcmeta"
+hash = "8f567e8e627958c55fe7fabad3c6a4884adbfc02931d74e9225f21d3a3eda61d"
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "5df66d1594e0e59754295cd6f5f1414f18ce47f18e583e474edf8c52e6db529c"
 metafile = true
@@ -357,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "1c68b1e077a77dfa2cd5a63b9ad73b11406e4c0bb13ef72a4c337cb50f188740"
+hash = "d8e9c12d291ecb9f829fe57504ceeb404bbdd2f9de2595595659ebb90440c826"
 metafile = true
 
 [[files]]
