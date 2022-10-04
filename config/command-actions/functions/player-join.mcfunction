@@ -1,0 +1,6 @@
+execute as C_playerUUID run scoreboard players add @s CA_totalPlayerJoins 1
+scoreboard players add CA_EVERYONE_TOTAL CA_totalPlayerJoins 1
+execute as C_playerUUID run execute if score @s CA_totalPlayerJoins matches 1 run scoreboard players add CA_EVERYONE_UNIQUE CA_uniquePlayerJoins 1
+execute as C_playerUUID run tellraw @s {"text":"Welcome to the Modfest: Singularity showcase server!","color":"light_purple"}
+execute as C_playerUUID run execute if score @s CA_totalPlayerJoins matches 1 run tellraw @s [{"text": "It's your first visit - Thanks for coming! You're visitor no. ", "color":"yellow"},{"score":{"name":"CA_EVERYONE_UNIQUE","objective":"CA_uniquePlayerJoins"}, "color":"white"},{"text":"!", "color":"yellow"}]
+execute as C_playerUUID run tellraw @s [{"text": "This is visit no. ", "color":"yellow"},{"score":{"name":"@s", "objective":"CA_totalPlayerJoins"}, "color":"white"},{"text":" for you, of ", "color":"yellow"}, {"score":{"name":"CA_EVERYONE_TOTAL","objective":"CA_totalPlayerJoins"}, "color":"white"}, {"text":" player visits! ", "color":"yellow"}, {"text": "[Learn More]", "color": "blue", "hoverEvent": {"action": "show_text", "value": "Sent by Command Actions! Click to check it out!"}, "clickEvent": {"action": "open_url", "value": "https://modrinth.com/mod/command-actions"}, "underlined": true}]
