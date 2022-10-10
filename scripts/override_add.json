@@ -15,7 +15,6 @@
   {"slug": "smoothboot-fabric",       "comment": "performance/stability"},
   {"slug": "forgetmechunk",           "version_id": "yX5SANL7",  "comment": "performance/stability"},
   {"slug": "memoryleakfix",           "comment": "performance/stability"},
-  {"slug": "moreculling",             "comment": "performance/stability"},
   {"slug": "entityculling",           "comment": "performance/stability"},
   {"slug": "ebe",                     "version_id":"s76PBY7D",   "comment": "performance/stability"},
   {"slug": "modmenu",                 "comment": "utility"},

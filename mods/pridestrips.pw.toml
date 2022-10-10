@@ -3,7 +3,7 @@ filename = "pridestrips-0.0.2-alpha+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xmrqvcSL/versions/0.0.2-alpha+1.19.2/pridestrips-0.0.2-alpha%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/xmrqvcSL/versions/0.0.2-alpha%2B1.19.2/pridestrips-0.0.2-alpha%2B1.19.2.jar"
 hash-format = "sha1"
 hash = "b33956951c744e859edc2962e29564cbfb3a8395"
 
