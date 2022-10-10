@@ -1,13 +1,13 @@
 name = "Yardwork"
-filename = "yardwork-1.1.5+1.19.2.jar"
+filename = "yardwork-1.1.6+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TTPMoAbe/versions/NTBEyxRq/yardwork-1.1.5%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/TTPMoAbe/versions/Y7IFF1P3/yardwork-1.1.6%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "fbe367a27f46aafa04674442be79540c199a8852"
+hash = "da6923db54b12f1d7abc9abb41c930387cf0deb2"
 
 [update]
 [update.modrinth]
 mod-id = "TTPMoAbe"
-version = "NTBEyxRq"
+version = "Y7IFF1P3"
