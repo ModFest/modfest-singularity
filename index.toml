@@ -120,12 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/bettersmoke.pw.toml"
-hash = "df3de4ffab85bd91ab37c4c0476cea6e187a249cdea200a756f05976bb5ca345"
+hash = "7c3134b56d5173c32ed67481ba8afdc22c58ae5902a4ebde100bcfa840b56a47"
 metafile = true
 
 [[files]]
 file = "mods/bigfanofit.pw.toml"
-hash = "cf3e88d7a2ad7aa56ad6f1535bab798192ba3da9263090f07e941fd9709ead33"
+hash = "2f1df7e9235bcd4a4cef720bb0b6d651a6fd6a1830a0fdd3ae332bb9517be270"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloak-of-gray-tomorrow.pw.toml"
-hash = "f88a169bf06ab81e6ac19e619051918e860b224cc710e0395b9f449d17ece149"
+hash = "c160ef1f3f879e7ba36ec7a424932911380bd3ac16db3b8170c6c1b2366c0991"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowcase.pw.toml"
-hash = "c0155534d82a27cc7846918edf1b708f215e0964ad43cf49704743b62ff9dd00"
+hash = "e3c2f664e6e3a8a16ee6b80a0ad560b6107776e82e2b2489e8d7a44aee8af5e7"
 metafile = true
 
 [[files]]
@@ -380,12 +380,12 @@ metafile = true
 
 [[files]]
 file = "mods/limits-strawberries.pw.toml"
-hash = "9650f6f42d57cf08a03dd93d8c5b5a573b5cef22ceb4ac49e1ce7d06ddb0adbd"
+hash = "47f80ca149bb1e2d094add2ce2f90e33dc55fa17b92f1052660cf4dcc79affb0"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/meowing.pw.toml"
-hash = "9418168578c73fef540382b2e3c111ec0099531d00e245dbe0db7cbbb3b119ed"
+hash = "7aac5d346e218c979d67e69f6c779b9bb31ec85797226a9bed4d48cb35ca2fac"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "997b1a93ccd70d86710170532e27b301cd15723fd7e8e74a14d8322ce5d47dd7"
+hash = "6c5cbc9f655596f6f9a7e718857fc0482f4172e55239e735b3c02a5fdbacac8e"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplexp.pw.toml"
-hash = "13bed28c4e374dcc8991a95197a09a52e433f45d2734bf74bc452cdeee7d4488"
+hash = "3706bc6cd172a63ec43960df822dba4cb075a67d553b2bd66756bdd1e365da01"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "4159a1facd7c3fdbc738092a2eda30c45dae13eb375514e251d4cb085e60e1f9"
+hash = "53bfdf1e3c3dd91d5bc972f2d2f3972c032b7461e4ae7699fbc2e5e6c3ac74b6"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "de08ce31ccfbd64fb308ddb0d1076d4e6cd65ac43bd6a16e57e01a1d14336428"
+hash = "b0edd73a7a58bd592f67d61083db20ea896dbbdd79c1c410efe0c692b3bcfc08"
 metafile = true
 
 [[files]]
