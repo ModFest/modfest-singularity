@@ -1,13 +1,13 @@
 name = "La Cucaracha"
-filename = "la_cucaracha-1.0.2+1.19.jar"
+filename = "la_cucaracha-1.0.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yi4Wpizw/versions/XLaz4m1Y/la_cucaracha-1.0.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/yi4Wpizw/versions/8uSmL3fh/la_cucaracha-1.0.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "d4bcdcb5d22f296cf3ed19e2d294e4041717a5f9"
+hash = "4bb026ca1e2b2bc036ad7fa0de8bd8fe4a8c39b4"
 
 [update]
 [update.modrinth]
 mod-id = "yi4Wpizw"
-version = "XLaz4m1Y"
+version = "8uSmL3fh"

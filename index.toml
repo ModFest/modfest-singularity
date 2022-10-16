@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/la-cucaracha.pw.toml"
-hash = "e24c81418be785a19f6903c76598989fcb36e3f6406af4a911bfd8f43a2cc6b7"
+hash = "19aebc9ca5b6e2ab0b142c1a0365fa90705edc921bdb351941c5b2f29679c2ff"
 metafile = true
 
 [[files]]

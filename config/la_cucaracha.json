@@ -1,0 +1,9 @@
+{
+  "roachSpawnEnabledCarriers": false,
+  "roachSpawnEnabledStructures": false,
+  "roachSpawnIntervalStructures": 100,
+  "roachSpawnEnabledFood": false,
+  "roachSpawnIntervalFood": 100,
+  "roachMaxGroupSize": 2,
+  "roachAggressionGroupSize": 2
+}
