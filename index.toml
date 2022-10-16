@@ -21,6 +21,10 @@ file = "config/fabrication/features.ini"
 hash = "9923fabc8999316b1dfd765ee645c5eaa86d692dc0c9ecf0205eeed120043d56"
 
 [[files]]
+file = "config/la_cucaracha.json"
+hash = "475f1129a53a5658b488bd0d73dcee024a433d2c1fede38d1ec02510c05cb4da"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "45421bbd126a17358dce57fda4e7bc3153f503e7c3f2909f20ebef86e0774a89"
 
