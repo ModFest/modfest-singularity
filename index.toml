@@ -17,6 +17,10 @@ file = "config/enhanced_bes.properties"
 hash = "593f685470e2a194d1b586895e2248f066d611bdd8e79b9f790a3324e189b361"
 
 [[files]]
+file = "config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+
+[[files]]
 file = "config/fabrication/features.ini"
 hash = "9923fabc8999316b1dfd765ee645c5eaa86d692dc0c9ecf0205eeed120043d56"
 
@@ -124,12 +128,12 @@ metafile = true
 
 [[files]]
 file = "mods/bettersmoke.pw.toml"
-hash = "7c3134b56d5173c32ed67481ba8afdc22c58ae5902a4ebde100bcfa840b56a47"
+hash = "df3de4ffab85bd91ab37c4c0476cea6e187a249cdea200a756f05976bb5ca345"
 metafile = true
 
 [[files]]
 file = "mods/bigfanofit.pw.toml"
-hash = "2f1df7e9235bcd4a4cef720bb0b6d651a6fd6a1830a0fdd3ae332bb9517be270"
+hash = "cf3e88d7a2ad7aa56ad6f1535bab798192ba3da9263090f07e941fd9709ead33"
 metafile = true
 
 [[files]]
@@ -184,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloak-of-gray-tomorrow.pw.toml"
-hash = "c160ef1f3f879e7ba36ec7a424932911380bd3ac16db3b8170c6c1b2366c0991"
+hash = "f88a169bf06ab81e6ac19e619051918e860b224cc710e0395b9f449d17ece149"
 metafile = true
 
 [[files]]
@@ -248,14 +252,8 @@ hash = "8dc5e3aee87a1e2389fed43af22b8723f79a8acfa42cead83d12a4c9c8bb9269"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
-metafile = true
-
-[[files]]
-file = "mods/ethicalmeatfields.pw.toml"
-hash = "e784483f27b62bec6e98f86a613236c53cd9de99fcf8cc85c661816f73f7cc47"
-metafile = true
+file = "mods/ethicalmeatfields-1.0.4+1.19.jar"
+hash = "5e232651454acbe756a2cdbb829869721bbba76e8147703fdf62470f6fcdbd9f"
 
 [[files]]
 file = "mods/exordium.pw.toml"
@@ -300,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/heighthaltingheels.pw.toml"
 hash = "a4d5e5090908a5abcce2c4f407f341e6b22873d7227ed26b986466a3bacfbbfc"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "481ecdcaa4da3c8c13422e01c39a5c04666827fad40df86b95e0ca26e9d45706"
 metafile = true
 
 [[files]]
@@ -389,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
+hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
 metafile = true
 
 [[files]]
@@ -474,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
@@ -524,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6c5cbc9f655596f6f9a7e718857fc0482f4172e55239e735b3c02a5fdbacac8e"
+hash = "954e3e7244f965133e5fc50d861829fb28531e70ab490dea1fc03c57d7bdfd87"
 metafile = true
 
 [[files]]
@@ -574,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplexp.pw.toml"
-hash = "3706bc6cd172a63ec43960df822dba4cb075a67d553b2bd66756bdd1e365da01"
+hash = "13bed28c4e374dcc8991a95197a09a52e433f45d2734bf74bc452cdeee7d4488"
 metafile = true
 
 [[files]]
@@ -609,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
+hash = "bd6e0c6fed890533739f8aada0d6ea3baba414001d829e6776bbad536f63a04d"
 metafile = true
 
 [[files]]
@@ -624,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "53bfdf1e3c3dd91d5bc972f2d2f3972c032b7461e4ae7699fbc2e5e6c3ac74b6"
+hash = "4159a1facd7c3fdbc738092a2eda30c45dae13eb375514e251d4cb085e60e1f9"
 metafile = true
 
 [[files]]
