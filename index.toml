@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloak-of-gray-tomorrow.pw.toml"
-hash = "f88a169bf06ab81e6ac19e619051918e860b224cc710e0395b9f449d17ece149"
+hash = "c160ef1f3f879e7ba36ec7a424932911380bd3ac16db3b8170c6c1b2366c0991"
 metafile = true
 
 [[files]]
@@ -248,8 +248,9 @@ hash = "8dc5e3aee87a1e2389fed43af22b8723f79a8acfa42cead83d12a4c9c8bb9269"
 metafile = true
 
 [[files]]
-file = "mods/ethicalmeatfields-1.0.4+1.19.jar"
-hash = "5e232651454acbe756a2cdbb829869721bbba76e8147703fdf62470f6fcdbd9f"
+file = "mods/ethicalmeatfields.pw.toml"
+hash = "d4df161077f01c2f3104939f62f86b3d9cafab4d8a90fb60d030ddcb75d85a08"
+metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
@@ -623,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "4159a1facd7c3fdbc738092a2eda30c45dae13eb375514e251d4cb085e60e1f9"
+hash = "53bfdf1e3c3dd91d5bc972f2d2f3972c032b7461e4ae7699fbc2e5e6c3ac74b6"
 metafile = true
 
 [[files]]
