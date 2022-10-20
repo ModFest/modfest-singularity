@@ -1,13 +1,13 @@
 name = "\"Better\" Smoke"
-filename = "bettersmoke-1.0.2+1.19.2.jar"
+filename = "bettersmoke-1.0.1+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EyAzv4x3/versions/Tsa8tGKp/bettersmoke-1.0.2%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/EyAzv4x3/versions/Lslz3UNN/bettersmoke-1.0.1%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "0bc846954f226a9361e65856b2929ae5aae7046b"
+hash = "b1c17ea0c44a5e2fcbcd403ce52d297a2585bdf0"
 
 [update]
 [update.modrinth]
 mod-id = "EyAzv4x3"
-version = "Tsa8tGKp"
+version = "Lslz3UNN"
