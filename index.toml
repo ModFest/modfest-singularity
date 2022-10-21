@@ -25,6 +25,10 @@ file = "config/fabrication/features.ini"
 hash = "9923fabc8999316b1dfd765ee645c5eaa86d692dc0c9ecf0205eeed120043d56"
 
 [[files]]
+file = "config/la_cucaracha.json"
+hash = "475f1129a53a5658b488bd0d73dcee024a433d2c1fede38d1ec02510c05cb4da"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "45421bbd126a17358dce57fda4e7bc3153f503e7c3f2909f20ebef86e0774a89"
 
@@ -363,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/la-cucaracha.pw.toml"
-hash = "e24c81418be785a19f6903c76598989fcb36e3f6406af4a911bfd8f43a2cc6b7"
+hash = "19aebc9ca5b6e2ab0b142c1a0365fa90705edc921bdb351941c5b2f29679c2ff"
 metafile = true
 
 [[files]]
