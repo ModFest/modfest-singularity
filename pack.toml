@@ -1,6 +1,6 @@
-name = "Modfest: Singularity"
+name = "Modfest Singularity"
 author = "Modfest Organizers and Participants"
-version = "0.0.11"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
