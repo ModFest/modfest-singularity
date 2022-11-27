@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroid.pw.toml"
-hash = "c531b07068714e4221b32a301712cc034856b9628ae214511125ab5088e7492f"
+hash = "a01dc877673b7ccacdcc28a2d413372bfbb0c4523bea4e7e69ad82b225330b2e"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "2333e1e5248bbb54dc0fd6a7274924552f52a4f87601243c0903a06935584417"
+hash = "85eb46d3ec7da8af57633bb8997962c1d08ba7a9ffb72fd021e8c7d7df34c392"
 metafile = true
 
 [[files]]

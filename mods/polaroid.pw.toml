@@ -1,13 +1,13 @@
 name = "Polaroid"
-filename = "polaroid-1.0.0.jar"
+filename = "polaroid-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ksqaxPUP/versions/bq3uW6SK/polaroid-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/ksqaxPUP/versions/lPW4FjtO/polaroid-1.0.2.jar"
 hash-format = "sha1"
-hash = "553156a170952f1678df7d28d7be5d64dc18efab"
+hash = "9b1d4ca29c612f5cc092821be595db56404529b0"
 
 [update]
 [update.modrinth]
 mod-id = "ksqaxPUP"
-version = "bq3uW6SK"
+version = "lPW4FjtO"
