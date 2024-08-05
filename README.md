@@ -1,2 +1,2 @@
 # modfest-singularity
-The packwiz pack for ModFest: Singularity
+The official ModFest: Singularity modpack!

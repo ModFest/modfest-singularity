@@ -1,1 +1,3 @@
-* -text
+# Disable Git line ending conversion in the pack directory
+# This prevents packwiz index hashes changing when committing from Windows
+pack/** -text

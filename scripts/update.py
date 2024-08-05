@@ -42,7 +42,7 @@ def main():
 
     # Change working directory
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
-    os.chdir('../')
+    os.chdir('../pack/')
 
     # Check working directory
     if not os.path.exists(pack_toml_path):
@@ -81,7 +81,7 @@ def main():
         packwiz_pretty_print('packwiz remove ' + mod['slug'], ignore_errors=True)
 
     # Copy in overriding jar files, you heretic
-    shutil.copytree('./scripts/overrides', './mods', dirs_exist_ok=True)  # Python 3.8 :pineapple:
+    shutil.copytree('../scripts/overrides', './mods', dirs_exist_ok=True)  # Python 3.8 :pineapple:
 
     # Refresh just in case
     os.system('packwiz refresh')

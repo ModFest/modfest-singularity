@@ -1,4 +1,4 @@
-.git/
 .idea/
-.tool-versions
 .DS_Store
+
+*.mrpack
