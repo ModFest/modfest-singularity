@@ -1,6 +1,6 @@
 name = "Packy"
 filename = "packy-1.0.1+1.19.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kIkfiyaX/versions/xjegQUY7/packy-1.0.1%2B1.19.2.jar"

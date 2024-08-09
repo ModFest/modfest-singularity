@@ -1,6 +1,6 @@
 name = "QDWarp"
 filename = "qdwarp-1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://git.sleeping.town/attachments/e08d6061-4789-41b5-a823-ab52abaf1281"

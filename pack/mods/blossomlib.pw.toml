@@ -1,6 +1,6 @@
 name = "BlossomLib"
 filename = "blossom-lib-2.4.1+1.19.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xw7lTsbM/versions/EzQmWC0O/blossom-lib-2.4.1%2B1.19.jar"
