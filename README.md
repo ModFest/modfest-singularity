@@ -16,6 +16,7 @@ This modpack contains all submissions, as well as a showcase world built by part
 - Witness the dawn of 83 mods, including **Switchy**, **Blast Travel**, **Kahur**, **Scarves**, and **Whipdashing**!
 - Explore an interdimensional mall full of mod "booths" around every corner!
 - Jump around on the playground, blast between plazas, and traverse the wall-to-wall chunk-sized shops!
+- Find and earn up to 108 collectible strawberries, hidden all across the map by participants!
 - Haul merchandise around and show it off, and discover the eerie abandoned "cake mall"....
 - *Get in loser, we're going shopping!*
 
