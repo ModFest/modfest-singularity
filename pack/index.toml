@@ -718,3 +718,15 @@ metafile = true
 file = "mods/yttr.pw.toml"
 hash = "bd55e848e4cf7a98aad647b72c1fb174bce58be740b6a5d782622e23919098bb"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "b716127032d8cc2afd7a3f2efe1d4cb8de42505a813ff8af17a5115cfb3073ed"
+
+[[files]]
+file = "server-icon.png"
+hash = "3a1781e8b4f25a0911799cb1ab8e93891582fc2a0c6f8536b678bbb9d3b26a4c"
+
+[[files]]
+file = "server.properties"
+hash = "d1c465beeac556a59cf3f0be1623d5a49164e967a61930aea14af7985db273ea"
