@@ -22,7 +22,7 @@ hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "9923fabc8999316b1dfd765ee645c5eaa86d692dc0c9ecf0205eeed120043d56"
+hash = "e7dc26f2e2d006fd0dd02f6736c7d502edefadb1449fef518ed7315f7f6856bc"
 
 [[files]]
 file = "config/la_cucaracha.json"
