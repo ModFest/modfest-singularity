@@ -74,11 +74,11 @@ hash = "08ce6c659cbe4bd393702a94e92ff41a297bcaac94381a2656f983b9f845b399"
 
 [[files]]
 file = "config/openloader/resources/mf_branding/assets/minecraft/textures/gui/title/edition.png"
-hash = "27bf14a330a75895008d5a4227e2b3410598e2dbebb04c42f90e7a604644b4bd"
+hash = "b5d2cdda07feb5ebba7079f877d306c044fff18b3c30b1b06374392d661b36ac"
 
 [[files]]
 file = "config/openloader/resources/mf_branding/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "9eff598e1e50fce579b56b22d0f01aa58b155def3522174d499fc9ee6afb32e3"
+hash = "269dc7ccca8acd6f51c095f21d585d3b9ab0bfdd6cf766635d04fd2ba0172105"
 
 [[files]]
 file = "config/openloader/resources/mf_branding/assets/minecraft/textures/gui/title/mojangstudios.png"
