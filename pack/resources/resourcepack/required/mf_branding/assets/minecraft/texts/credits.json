@@ -1,0 +1,766 @@
+[
+	{
+		"section": "Showcase Volunteers",
+		"disciplines": [
+			{
+				"discipline": "Volunteer Artists",
+				"titles": [
+					{
+						"title": "Soundtrack Mastering / Lead",
+						"names": [
+							"Nulb"
+						]
+					},
+					{
+						"title": "Soundtrack Artist",
+						"names": [
+							"Nulb / Deltarisk",
+							"Superkat32",
+							"Aethyus",
+							"cordova (WorldWidePixel)"
+						]
+					},
+					{
+						"title": "Texture Artist",
+						"names": [
+							"wishi (dreamiwishi)"
+						]
+					},
+					{
+						"title": "Branding Artist",
+						"names": [
+							"WorldWidePixel"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Volunteer Builders",
+				"titles": [
+					{
+						"title": "Lead Architect",
+						"names": [
+							"apfelrunder",
+							"hama"
+						]
+					},
+					{
+						"title": "World Builder",
+						"names": [
+							"apfelrunder",
+							"hama",
+							"keyberries",
+							"Deadlydiamond98",
+							"wavyjaevy",
+							"Luna (AwakenedRedstone)"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Volunteer Developers",
+				"titles": [
+					{
+						"title": "Website Developer",
+						"names": [
+							"WorldWidePixel"
+						]
+					},
+					{
+						"title": "Platform Developer",
+						"names": [
+							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Optimization",
+						"names": [
+							"Jasmine (jaskarth)",
+							"Cortex"
+						]
+					},
+					{
+						"title": "Utils Developer",
+						"names": [
+							"Luna (AwakenedRedstone)",
+							"Ampflower",
+							"Tomate0613",
+							"TheEpicBlock",
+							"afamiliarquiet",
+							"MerchantCalico",
+							"Sylv",
+							"MattiDragon",
+							"cassiancc"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Testing & Feedback",
+				"titles": [
+					{
+						"title": "Debugging",
+						"names": [
+							"Tomate0613",
+							"cassiancc",
+							"SkyNotTheLimit",
+							"Ampflower"
+						]
+					},
+					{
+						"title": "Playtesting",
+						"names": [
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Volunteer Team Members",
+				"titles": [
+					{
+						"title": "Showrunner",
+						"names": [
+							"WorldWidePixel",
+							"hama",
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "Ground Team",
+						"names": [
+							"afamiliarquiet",
+							"Tomate0613",
+							"Luna (AwakenedRedstone)",
+							"cortex"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"section": "Jam & Showcase Participants",
+		"disciplines": [
+			{
+				"discipline": "Modding Teams",
+				"titles": [
+					{
+						"title": "Wind-up Music Box",
+						"names": [
+							"anawesomguy",
+							"Aethyus"
+						]
+					},
+					{
+						"title": "StickerBomb!",
+						"names": [
+							"SCARLET!, lily, violet (foxes &)",
+							"Cassunshine"
+						]
+					},
+					{
+						"title": "Flying Frisbees",
+						"names": [
+							"hama",
+							"jaevy"
+						]
+					},
+					{
+						"title": "Spacey Figurines",
+						"names": [
+							"CYANO\u2605FLOWER"
+						]
+					},
+					{
+						"title": "Wabbajack",
+						"names": [
+							"Crosby"
+						]
+					},
+					{
+						"title": "Losing My Marbles!",
+						"names": [
+							"Tropheus Jay",
+							"Maximum",
+							"Carter"
+						]
+					},
+					{
+						"title": "Paintbrush",
+						"names": [
+							"pinnit | tomalbrc"
+						]
+					},
+					{
+						"title": "5 Guys (Burgers and Fries)",
+						"names": [
+							"Calico"
+						]
+					},
+					{
+						"title": "Toil and Trouble",
+						"names": [
+							"cassiancc"
+						]
+					},
+					{
+						"title": "Chiseled",
+						"names": [
+							"MyNamesRaph"
+						]
+					},
+					{
+						"title": "Mr. Potato Head",
+						"names": [
+							"Tau",
+							"ilcheese2"
+						]
+					},
+					{
+						"title": "Hero Statue",
+						"names": [
+							"dannytaylor",
+							"Phantazap"
+						]
+					},
+					{
+						"title": "DIY-Die",
+						"names": [
+							"Prof. Carvalho"
+						]
+					},
+					{
+						"title": "Toy Water Gun",
+						"names": [
+							".Yo"
+						]
+					},
+					{
+						"title": "Spring Boots",
+						"names": [
+							"Tomate0613"
+						]
+					},
+					{
+						"title": "Blowing Bubbles",
+						"names": [
+							"nml"
+						]
+					},
+					{
+						"title": "Boing!",
+						"names": [
+							"VolcanYT",
+							"MLGSUPERGAMER"
+						]
+					},
+					{
+						"title": "Grand Indestructible Kingdom",
+						"names": [
+							"hama",
+							"keyberries"
+						]
+					},
+					{
+						"title": "Crazy Pogo",
+						"names": [
+							"Talinkri"
+						]
+					},
+					{
+						"title": "The Mad Hatter",
+						"names": [
+							"Miyu"
+						]
+					},
+					{
+						"title": "Simply Slingshot",
+						"names": [
+							"Patbox"
+						]
+					},
+					{
+						"title": "Mob Mystery Dollhouse",
+						"names": [
+							"Acrogenous"
+						]
+					},
+					{
+						"title": "Confetti Cannon",
+						"names": [
+							"Julian"
+						]
+					},
+					{
+						"title": "Toy Bricks",
+						"names": [
+							"TheBlindBandit6"
+						]
+					},
+					{
+						"title": "Copper Cauldron",
+						"names": [
+							"MattiDragon"
+						]
+					},
+					{
+						"title": "NotEnoughMinecraft",
+						"names": [
+							"Drex"
+						]
+					},
+					{
+						"title": "Volo Volare",
+						"names": [
+							"SlimeistDev"
+						]
+					},
+					{
+						"title": "Kaleidoscopes",
+						"names": [
+							"coolsa"
+						]
+					},
+					{
+						"title": "Lifelike",
+						"names": [
+							"chromonym"
+						]
+					},
+					{
+						"title": "Mica",
+						"names": [
+							"PoolloverNathan"
+						]
+					},
+					{
+						"title": "Power Towel",
+						"names": [
+							"Reoseah"
+						]
+					},
+					{
+						"title": "Dominoes",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "RC Toys",
+						"names": [
+							"ADInfinity59"
+						]
+					},
+					{
+						"title": "Playful Planes",
+						"names": [
+							"ChefMooon"
+						]
+					},
+					{
+						"title": "Maglev",
+						"names": [
+							"ThePotatoArchivist"
+						]
+					},
+					{
+						"title": "The Sword of Legend",
+						"names": [
+							"MyNamesRaph"
+						]
+					},
+					{
+						"title": "Action Mobs",
+						"names": [
+							"CyborgPigeon"
+						]
+					},
+					{
+						"title": "Would you be a doll?",
+						"names": [
+							"afamiliarquiet"
+						]
+					},
+					{
+						"title": "Confetti Gunner",
+						"names": [
+							"Rulft"
+						]
+					},
+					{
+						"title": "Confettinator",
+						"names": [
+							"Overgeneralized"
+						]
+					},
+					{
+						"title": "EVL Toys",
+						"names": [
+							"TheFluffycart55"
+						]
+					},
+					{
+						"title": "Occipital Metonymy",
+						"names": [
+							"hama",
+							"Nulb",
+							"keyberries"
+						]
+					},
+					{
+						"title": "Showtime",
+						"names": [
+							"BigCrazy"
+						]
+					},
+					{
+						"title": "Grow Your Crystal",
+						"names": [
+							"Space Lover"
+						]
+					},
+					{
+						"title": "Totoro's Top",
+						"names": [
+							"Bug1312"
+						]
+					},
+					{
+						"title": "New in Box!",
+						"names": [
+							"blur"
+						]
+					},
+					{
+						"title": "Surpuncher",
+						"names": [
+							"SkyNotTheLimit"
+						]
+					},
+					{
+						"title": "Hyper Silt",
+						"names": [
+							"hama",
+							"Nulb"
+						]
+					},
+					{
+						"title": "Jack In The Box",
+						"names": [
+							"Hiro",
+							"ilcheese2"
+						]
+					},
+					{
+						"title": "Mannequin",
+						"names": [
+							"skypriot"
+						]
+					},
+					{
+						"title": "Densha no Omocha",
+						"names": [
+							"Dooji"
+						]
+					},
+					{
+						"title": "citsabmoB",
+						"names": [
+							"Echo",
+							"WorldWidePixel"
+						]
+					},
+					{
+						"title": "Zip To It!",
+						"names": [
+							"Superkat32"
+						]
+					},
+					{
+						"title": "More Than A Foxbox",
+						"names": [
+							"Octal",
+							"Sylv",
+							"Calico"
+						]
+					},
+					{
+						"title": "yamaxanadu",
+						"names": [
+							"Alwinfy",
+							"Superkat32",
+							"bundercover"
+						]
+					},
+					{
+						"title": "Dronebox",
+						"names": [
+							"matscalle",
+							"ThatFlugiGuy",
+							"Azura Nishio",
+							"copicraft",
+							"Neomoon"
+						]
+					},
+					{
+						"title": "Bloub 4 MC",
+						"names": [
+							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Eye of Dreams",
+						"names": [
+							"SkyNotTheLimit"
+						]
+					},
+					{
+						"title": "Not A Toy",
+						"names": [
+							"Burrito"
+						]
+					},
+					{
+						"title": "Telebaton",
+						"names": [
+							"Lgmrszd",
+							"hama"
+						]
+					},
+					{
+						"title": "Laseredstone",
+						"names": [
+							"SkyNotTheLimit"
+						]
+					},
+					{
+						"title": "Slot Cars",
+						"names": [
+							"chililisoup"
+						]
+					},
+					{
+						"title": "Chorus Honey",
+						"names": [
+							"GardenSystem"
+						]
+					},
+					{
+						"title": "Googun",
+						"names": [
+							"supertoady"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"section": "ModFest Team",
+		"disciplines": [
+			{
+				"discipline": "Team Members",
+				"titles": [
+					{
+						"title": "hi :^)",
+						"names": [
+							"2xSaiko"
+						]
+					},
+					{
+						"title": "Torch-Passer",
+						"names": [
+							"acikek"
+						]
+					},
+					{
+						"title": "Imagination reifier",
+						"names": [
+							"afamiliarquiet"
+						]
+					},
+					{
+						"title": "Dark Horse Expert",
+						"names": [
+							"Ampflower"
+						]
+					},
+					{
+						"title": "Lead Architect",
+						"names": [
+							"apfelrunder"
+						]
+					},
+					{
+						"title": "Water drinker",
+						"names": [
+							"Aqua (aquaholic)"
+						]
+					},
+					{
+						"title": "Does a lotl",
+						"names": [
+							"Chai"
+						]
+					},
+					{
+						"title": "Performance Apprentice",
+						"names": [
+							"cortex"
+						]
+					},
+					{
+						"title": "Action Hero",
+						"names": [
+							"CyborgPigeon"
+						]
+					},
+					{
+						"title": "Fruit salad impressionist",
+						"names": [
+							"wishi (dreamiwishi)"
+						]
+					},
+					{
+						"title": "Old mate",
+						"names": [
+							"Falkreon"
+						]
+					},
+					{
+						"title": "Forgot they're on the team",
+						"names": [
+							"hama"
+						]
+					},
+					{
+						"title": "Mysterious nixie",
+						"names": [
+							"Infinidoge"
+						]
+					},
+					{
+						"title": "Creative double agent",
+						"names": [
+							"IThundxr"
+						]
+					},
+					{
+						"title": "lag ? crash : dream",
+						"names": [
+							"Jasmine (jaskarth)"
+						]
+					},
+					{
+						"title": "Liminal decorationist",
+						"names": [
+							"June (Khazoda)"
+						]
+					},
+					{
+						"title": "Spamton Jumpscare",
+						"names": [
+							"vriska (leo60228)"
+						]
+					},
+					{
+						"title": "Watermelon owner",
+						"names": [
+							"Lgmrszd"
+						]
+					},
+					{
+						"title": "Fox of all time (FOAT)",
+						"names": [
+							"Luna (AwakenedRedstone)"
+						]
+					},
+					{
+						"title": "Dethroned Monarch",
+						"names": [
+							"Maximum"
+						]
+					},
+					{
+						"title": "Mixmaster 2.0",
+						"names": [
+							"Nulb"
+						]
+					},
+					{
+						"title": "Occasional server admin",
+						"names": [
+							"oatmealine"
+						]
+					},
+					{
+						"title": "Benevolent Server Host",
+						"names": [
+							"Patbox"
+						]
+					},
+					{
+						"title": "Builder Of All Time (BOAT)",
+						"names": [
+							"Phanastrae"
+						]
+					},
+					{
+						"title": "Minos, constructor of websites",
+						"names": [
+							"Prospector"
+						]
+					},
+					{
+						"title": "Domain baroness",
+						"names": [
+							"Pyrrha"
+						]
+					},
+					{
+						"title": "Long-time caller",
+						"names": [
+							"Sammy"
+						]
+					},
+					{
+						"title": "Notorious Pedant",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "TheEpicPlatform",
+						"names": [
+							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Virtuously Vital Vegetable",
+						"names": [
+							"Tomate0613"
+						]
+					},
+					{
+						"title": "Outlaw",
+						"names": [
+							"Trudle"
+						]
+					},
+					{
+						"title": "Fishtank Ambassador",
+						"names": [
+							"Tropheus Jay (TropheusJ)"
+						]
+					},
+					{
+						"title": "World-Level Helpful",
+						"names": [
+							"WorldWidePixel"
+						]
+					}
+				]
+			}
+		]
+	}
+]

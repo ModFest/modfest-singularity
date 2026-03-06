@@ -1,0 +1,33 @@
+# Your discord bot token. Read the tutorial at https://docs.spiritstudios.dev/use/cantilever for more info.
+# default: <YOUR_BOT_TOKEN>
+token = "<YOUR_BOT_TOKEN>"
+# You can get this TrackedValue by enabling developer mode in discord and right clicking the channel you wish to use as your bridge.
+# default: 123456789
+channelId = 123456789
+# Use %s in your TrackedValue to slot in the game event text being sent.
+# default: **%s**
+gameEventFormat = "**%s**"
+# Use a first %s in your TrackedValue to slot in a username, and a second to slot in the chat message content.
+# default: <@%s> %s
+gameChatFormat = "<@%s> %s"
+# Use a %s to slot in the skin texture ID for your head service of choice!
+# default: https://vzge.me/face/256/%s.png
+webhookFaceApi = "https://vzge.me/bust/256/%s.png"
+# The delay for sending a message from Discord to Minecraft in milliseconds. Set up to make sure that Webhook related Discord Bots such as PluralKit may send messages from users..
+# range: 0 - 9223372036854775807
+# default: 0
+d2mMessageDelay = 2000
+# The status message to show on the bridge bot
+# default: 
+statusMessage = "ModFest: Singularity!"
+# The activity type to show on the bridge bot
+# options: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM_STATUS, COMPETING
+# default: PLAYING
+activityType = "PLAYING"
+# Whether to use nicknames defined by players or Minecraft account name on Discord
+# default: true
+useMinecraftNicknames = true
+# A map of text to text replacements from MC -> Discord; useful for Styled Chat Emoji
+m2dReplacements = {}
+# A map of text to text replacements from Discord -> MC; useful for Styled Chat Emoji
+d2mReplacements = {}

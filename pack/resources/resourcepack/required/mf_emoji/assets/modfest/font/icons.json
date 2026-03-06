@@ -1,0 +1,22 @@
+{
+	"providers": [
+		{
+			"type": "space",
+			"advances": {
+				".": -168,
+				"_": -32,
+				"-": -8,
+				"'": -1
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "modfest:art/icon/transparent-modfest.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"0"
+			]
+		}
+	]
+}

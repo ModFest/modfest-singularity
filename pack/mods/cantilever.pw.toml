@@ -1,0 +1,8 @@
+name = "cantilever"
+filename = "cantilever-2.0-dev+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sisby-folk/cantilever/releases/download/2.0-tailor/cantilever-2.0-dev+1.19.2.jar"
+hash-format = "sha256"
+hash = "ee46ccb237ff6059cd86324f3cb3ea49a8c69da366464984df0fe42cfbd132e8"
