@@ -730,3 +730,7 @@ hash = "3a1781e8b4f25a0911799cb1ab8e93891582fc2a0c6f8536b678bbb9d3b26a4c"
 [[files]]
 file = "server.properties"
 hash = "d1c465beeac556a59cf3f0be1623d5a49164e967a61930aea14af7985db273ea"
+
+[[files]]
+file = "servers.dat"
+hash = "ccf7049c477918d3803db03e62f3fee45152625505a4f9e01d1211e07c551052"
